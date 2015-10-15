@@ -1,0 +1,216 @@
+/**
+ *  Name: Satish Sekar
+ *  Home CSS Stylesheet
+ */
+
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clearBoth {
+    clear: both;
+}
+
+.clearLeft {
+    clear: left;
+}
+
+.clearRight {
+    clear: right;
+}
+
+.block {
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+
+.none {
+    display: none;
+}
+
+div#container {
+    width: 720px;
+    height: 480px;
+    border: 1px solid #CCCCCC;
+    margin: 0px auto;
+}
+
+div#container > .languageBlock {
+    width: 210px;
+    height: 40px;
+    line-height: 40px;
+    white-space: nowrap;
+}
+
+div#container > .captionBlock {
+    width: 100%;
+    height: 40px;
+}
+
+div#container > .categoryBlock {
+    width: 360px;
+    height: 400px;
+}
+
+div#container > .formBlock {
+    width: 360px;
+    height: 360px;
+}
+
+.languageBlock > .label {
+    height: 100%;
+}
+
+.languageBlock > .select {
+    height: 100%;
+}
+
+.captionBlock > span {
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+    font-size: 18px;
+    white-space: nowrap;
+}
+
+.categoryBlock > div.cat {
+    width: 100%;
+    height: 100px;
+}
+
+.categoryBlock div.cat .img {
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+}
+
+.en .categoryBlock div.cat .img {
+    background: transparent url("../img/Webpage-testEN.PNG");
+}
+
+.fr .categoryBlock div.cat .img {
+    background: transparent url("../img/Webpage-testFR.PNG");
+}
+
+.en .categoryBlock div.cat .img, .fr .categoryBlock div.cat .img {
+    background-position: -70px -210px;
+}
+
+.en .categoryBlock div.cat + div .img, .fr .categoryBlock div.cat + div .img {
+    background-position: -70px -320px !important;
+}
+
+.en .categoryBlock div.cat + div + div .img, .fr .categoryBlock div.cat + div + div .img {
+    background-position: -70px -430px !important;
+}
+
+.en .categoryBlock div.cat + div + div + div .img, .fr .categoryBlock div.cat + div + div + div .img {
+    background-position: -70px -540px !important;
+}
+
+.categoryBlock > div.cat > .label {
+    width: 240px;
+    height: 100px;
+    margin-left: 10px;
+    line-height: 100px;
+    font-weight: bold;
+}
+
+.categoryBlock > div.cat > .label > a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.categoryBlock > div.cat > .label > a:hover {
+    text-decoration: underline;
+}
+
+div#container > .formBlock {
+    background-color: #F4F4F4;
+}
+
+div#container > .formBlock div {
+    height: 40px;
+}
+
+div#container > .formBlock .input {
+    width: 320px;
+    height: 40px;
+    background-color: #B8B8B8;
+    color: #FEFEFE;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    position: relative;
+    top: 8px;
+    left: 22px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -ie-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+div#container > .formBlock .input input {
+    background: transparent;
+    width: 320px;
+    height: 40px;
+    outline: none;
+    border: 0px;
+    color: #FEFEFE;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+div#container > .formBlock .submit {
+    padding: 20px;
+}
+
+div#container > .formBlock .submit input {
+    background-color: 8CBC79;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    outline: #FEFEFE;
+    color: #FEFEFE;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #FEFEFE;
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #FEFEFE;
+    opacity:  1;
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #FEFEFE;
+    opacity:  1;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #FEFEFE;
+}
