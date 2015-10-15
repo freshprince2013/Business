@@ -1,0 +1,21 @@
+/**
+* Media query for tablet device
+*/
+
+@media (min-width: 321px) and (max-width: 768px) {
+  .container {
+    div {
+      section {
+        width: 100% !important;
+        section {
+          float: left;
+        }
+        header {
+          div {
+            text-align: center !important;
+          }
+        }
+      }
+    }
+  }
+}

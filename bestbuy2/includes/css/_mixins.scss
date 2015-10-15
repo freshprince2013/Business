@@ -1,0 +1,48 @@
+/**
+* SASS enabled mixin functions
+*/
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  -khtml-border-radius: $radius;
+  -ie-border-radius: $radius;
+  -o-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin link-color($link, $hover, $active, $visited) {
+  a {
+    &:hover {
+      color: $hover !important;
+      text-decoration: underline;
+    }
+    &:link {
+      color: $link;
+    }
+    &:visited {
+      color: $visited;
+    }
+    &:active {
+      color: $active;
+    }
+  }
+}
+
+@mixin placeholder($color) {
+  ::-webkit-input-placeholder { /* WebKit browsers */
+    color:    $color;
+  }
+  :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    $color;
+    opacity:  1;
+  }
+  ::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    $color;
+    opacity:  1;
+  }
+  :-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    $color;
+  }
+}

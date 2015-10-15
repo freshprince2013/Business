@@ -1,0 +1,173 @@
+/**
+* Name: Satish Sekar
+* SASS Stylesheet for the homepage
+*/
+/* list of font sizes */
+/* list of font styles */
+/* list of font types */
+/* list of web colors */
+/**
+* SASS enabled mixin functions
+*/
+/**
+* Media query for mobile device
+*/
+@media (min-width: 0px) and (max-width: 320px) {
+  .container div section {
+    width: 50% !important; }
+    .container div section header div {
+      text-align: center !important; } }
+/**
+* Media query for tablet device
+*/
+@media (min-width: 321px) and (max-width: 768px) {
+  .container div section {
+    width: 100% !important; }
+    .container div section section {
+      float: left; }
+    .container div section header div {
+      text-align: center !important; } }
+/**
+* Media query for laptop device
+*/
+@media (min-width: 769px) and (max-width: 800px) {
+  .container div section {
+    width: 100%; }
+    .container div section section {
+      float: left; }
+    .container div section header div {
+      text-align: left !important; } }
+/**
+* Media query for desktop device
+*/
+@media (min-width: 801px) {
+  .container div section {
+    width: 100%; }
+    .container div section section {
+      float: left; }
+    .container div section header div {
+      text-align: left !important; } }
+.stripspaces, body {
+  margin: 0px;
+  border: 0px;
+  padding: 0px; }
+
+body .container div section {
+  width: 600px;
+  margin: 0px auto; }
+  body .container div section header {
+    padding: 15px 0px 30px 10px; }
+    body .container div section header div {
+      font: bold 14px Arial, "Helvetica Neue", Helvetica, sans-serif;
+      text-align: center; }
+  body .container div section section.left {
+    width: 300px !important; }
+    body .container div section section.left .activity {
+      height: 95px;
+      clear: both; }
+      body .container div section section.left .activity div {
+        float: left; }
+      body .container div section section.left .activity .icon {
+        background-image: url("../img/sprite.png");
+        width: 95px;
+        height: 95px;
+        background-position: -95px 0px; }
+      body .container div section section.left .activity:hover .icon {
+        background-position: 0px 0px !important; }
+      body .container div section section.left .activity .label a:hover {
+        color: #E14107 !important;
+        text-decoration: underline; }
+      body .container div section section.left .activity .label a:link {
+        color: #363636; }
+      body .container div section section.left .activity .label a:visited {
+        color: #363636; }
+      body .container div section section.left .activity .label a:active {
+        color: #363636; }
+      body .container div section section.left .activity .label a {
+        font-size: 14px;
+        line-height: 95px;
+        margin-left: 10px; }
+      body .container div section section.left .activity:nth-child(2) .icon {
+        background-position: -95px -95px !important; }
+      body .container div section section.left .activity:nth-child(3) .icon {
+        background-position: -95px -190px !important; }
+      body .container div section section.left .activity:nth-child(4) .icon {
+        background-position: -95px -285px !important; }
+    body .container div section section.left .activity + .activity .icon {
+      background-position: -95px -95px !important; }
+    body .container div section section.left .activity + .activity:hover .icon {
+      background-position: 0px -95px !important; }
+    body .container div section section.left .activity + .activity + .activity .icon {
+      background-position: -95px -190px !important; }
+    body .container div section section.left .activity + .activity + .activity:hover .icon {
+      background-position: 0px -190px !important; }
+    body .container div section section.left .activity + .activity + .activity + .activity .icon {
+      background-position: -95px -285px !important; }
+    body .container div section section.left .activity + .activity + .activity + .activity:hover .icon {
+      background-position: 0px -285px !important; }
+  body .container div section section.right {
+    background-color: #F4F4F4;
+    padding: 15px;
+    width: 300px !important; }
+    body .container div section section.right form div:not(.submit) {
+      background-color: #B8B8B8;
+      line-height: 44px;
+      padding-left: 8px;
+      height: 48px;
+      color: #FFFFFF;
+      font-weight: bold;
+      margin-bottom: 12px;
+      -webkit-border-radius: 6px;
+      -moz-border-radius: 6px;
+      -ms-border-radius: 6px;
+      -khtml-border-radius: 6px;
+      -ie-border-radius: 6px;
+      -o-border-radius: 6px;
+      border-radius: 6px; }
+      body .container div section section.right form div:not(.submit) input[type=text] {
+        width: 100%;
+        background-color: transparent;
+        color: #FFFFFF;
+        outline: 0px;
+        border: 0px; }
+      body .container div section section.right form div:not(.submit) ::-webkit-input-placeholder {
+        /* WebKit browsers */
+        color: #FFFFFF; }
+      body .container div section section.right form div:not(.submit) :-moz-placeholder {
+        /* Mozilla Firefox 4 to 18 */
+        color: #FFFFFF;
+        opacity: 1; }
+      body .container div section section.right form div:not(.submit) ::-moz-placeholder {
+        /* Mozilla Firefox 19+ */
+        color: #FFFFFF;
+        opacity: 1; }
+      body .container div section section.right form div:not(.submit) :-ms-input-placeholder {
+        /* Internet Explorer 10+ */
+        color: #FFFFFF; }
+    body .container div section section.right form div:nth-child(4) {
+      width: 55% !important; }
+      body .container div section section.right form div:nth-child(4) input[type=text] {
+        width: 55% !important; }
+    body .container div section section.right form div.submit {
+      margin-top: 16px; }
+      body .container div section section.right form div.submit input {
+        float: right;
+        width: 90px;
+        height: 36px;
+        background-color: #8CBC79;
+        color: #FFFFFF;
+        font-weight: bold;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -khtml-border-radius: 5px;
+        -ie-border-radius: 5px;
+        -o-border-radius: 5px;
+        border-radius: 5px; }
+  body .container div section footer {
+    clear: both;
+    text-align: center;
+    color: #B8B8B8;
+    font-size: 11px; }
+
+/*# sourceMappingURL=home.css.map */

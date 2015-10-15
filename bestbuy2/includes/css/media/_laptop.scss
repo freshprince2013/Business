@@ -1,0 +1,21 @@
+/**
+* Media query for laptop device
+*/
+
+@media (min-width: 769px) and (max-width: 800px) {
+  .container {
+    div {
+      section {
+        width: 100%;
+        section {
+          float: left;
+        }
+        header {
+          div {
+            text-align: left !important;
+          }
+        }
+      }
+    }
+  }
+}
