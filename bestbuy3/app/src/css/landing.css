@@ -1,0 +1,230 @@
+/*
+ CSS stylesheet for the landing page
+*/
+
+body, body .container {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.container .content {
+    width: 825px;
+    height: auto;
+    border-left: 1px solid #c1bcb0;
+    border-right: 1px solid #c1bcb0;
+    margin: 0px auto;
+}
+
+.clearLeft {
+    clear: left;
+}
+
+.clearRight {
+    clear: right;
+}
+
+.clearBoth {
+    clear: both;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.none {
+    display: none;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display:-moz-inline-stack;
+    display:inline-block;
+    zoom:1;
+    *display:inline;
+}
+
+.block {
+    display: block;
+}
+
+.table {
+    display: table;
+}
+
+.table-cell {
+    display: table-cell;
+}
+
+.no-border-bottom {
+    border-bottom: 0px !important;
+}
+
+.container .content .column-1, .container .content .column-2 {
+    height: auto;
+    vertical-align: top;
+    border: 1px solid #c1bcb0;
+}
+
+.container .content .header { 
+	font-weight: normal;
+	font-size: 24px;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+}
+
+.container .content .column-1 {
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    -khtml-border-radius: 8px;
+    -ie-border-radius: 8px;
+}
+
+.container .content .column-1 {
+    width: 200px;
+    margin-right: 12px;
+}
+
+.container .content .column-2 {
+    width: 600px;
+}
+
+.container .content .column-1 ul, .container .content .column-2 ul {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.container .content .column-1 ul li, .container .content .column-2 ul li {
+    list-style-type: none;
+    text-align: center;
+}
+
+.container .content .column-1 ul li {
+    height: 32px;
+    line-height: 32px;
+    border-bottom: 1px solid #c1bcb0;
+}
+
+.container .content .column-1 ul li a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #52483d;
+}
+
+.container .content .column-1 ul li:hover {
+    background-color: #006abf;
+}
+
+.container .content .column-1 ul li:hover a {
+    color: #fefefe;
+}
+
+.container .content .column-2 ul li {
+    width:180px;
+    height: 170px;
+    border: 1px solid #C8C5B8;
+    border-radius: 8px;
+    margin: 8px;
+    font-size: 14px;
+    positioN: relative;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    -ie-border-radius: 5px;
+}
+
+div.thumbBlock {
+    width: 180px;
+    height: 75px;
+}
+
+div.titleBlock {
+    width: 180px;
+    height: 20px;
+}
+
+div.titleBlock a {
+    white-space: nowrap;
+}
+
+div.price {
+    font-size: 12px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-weight: bold;
+    padding: 3px;
+}
+
+div.price .regularPrice {
+    text-decoration: line-through;
+}
+
+div.price .salePrice {
+    color: #e41720;
+}
+
+div.descBlock {
+    width: 180px;
+    height: 50px;
+    color: #333333;
+    font-size: 12px;
+}
+
+div.footerBlock {
+    width: 180px;
+    height: 25px;
+    background-color: #4c4c4c;
+    color: #fefefe;
+    font-size: 11px;
+    line-height: 18px;
+}
+
+div.footerBlock .promotion {
+    color: #e41720;
+    font-weight: bold;
+    padding: 3px;
+}
+
+div.ratingsBlock { 
+	width: 80px;
+	position: relative;
+}
+
+div.footerBlock .customerRatingMask {
+    width: 80px;
+    height: 17px;
+    background-color: #ebc52f;
+    position: absolute;
+    left: 0px;
+	top: 3px;
+    bottom: 5px;
+    z-index: 1;
+}
+
+div.footerBlock .customerRating {
+    padding: 3px;
+    position: relative;
+    top: 3px;
+    z-index: 99;
+    width: 80px;
+    height: 17px;
+    background: transparent url("../img/starratings.png") 0px 0px no-repeat;
+}
+
+.container .content .column-2 ul li div img {
+    width: 75px;
+}
