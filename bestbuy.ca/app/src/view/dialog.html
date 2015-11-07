@@ -1,0 +1,15 @@
+<div class="dialogMask" ng-if="config.pages.DialogView.enable===true" ng-click="closeDialog()"></div>
+<div class="dialogContainer" ng-if="config.pages.DialogView.enable===true" ng-controller="dialogController">
+    <div class="clearBoth">
+        <div class="largeImg left">
+            <img ng-src="{{dialogConfig.img}}" />
+        </div>
+
+        <div class="title left">{{dialogConfig.title}}</div>
+        <div class="description left">{{dialogConfig.description}}</div>
+        <div class="regularPrice left">Regular Price: {{dialogConfig.regularPrice}}</div>
+        <div class="salePrice left">Sale Price: {{dialogConfig.salePrice}}</div>
+        <div class="customerRating left">Customer Rating: {{dialogConfig.customerRating}}/{{dialogConfig.maxRating}}</div>
+        <div class="closeBtn left"><a href="#" ng-click="closeDialog()">Close X</a></div>
+    </div>
+</div>
