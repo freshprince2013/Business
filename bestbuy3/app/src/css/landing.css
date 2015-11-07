@@ -73,6 +73,13 @@ body, body .container {
     border: 1px solid #c1bcb0;
 }
 
+.container .content .header { 
+	font-weight: normal;
+	font-size: 24px;
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+}
+
 .container .content .column-1 {
     border-radius: 8px;
     -webkit-border-radius: 8px;
@@ -192,12 +199,18 @@ div.footerBlock .promotion {
     padding: 3px;
 }
 
+div.ratingsBlock { 
+	width: 80px;
+	position: relative;
+}
+
 div.footerBlock .customerRatingMask {
     width: 80px;
     height: 17px;
     background-color: #ebc52f;
     position: absolute;
-    right: 6px;
+    left: 0px;
+	top: 3px;
     bottom: 5px;
     z-index: 1;
 }

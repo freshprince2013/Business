@@ -1,33 +1,10 @@
     <div class="content clearBoth" ng-controller="landingController">
+		<div class="header">Product display by category name</div>
         <div class="column-1 left">
-            <ul class="categories">
-                <li ng-repeat="cat in categories" ng-class="{'no-border-bottom':$last}"><a href="#" ng-click="refreshProducts(cat.id)">{{addEllipsis(cat.name, 18, false)}}</a></li>
-            </ul>
+            <div ng-include="categoryTpl"></div>
         </div>
 
         <div class="column-2 left">
-            <ul class="products">
-                <li ng-repeat="prod in products" class="left {{prod.sku}}">
-                    <div class="thumbBlock">
-                        <img ng-src="{{config.root}}{{prod.thumbnailImage}}" />
-                    </div>
-
-                    <div class="price">
-                        <div class="regularPrice">{{prod.regularPrice}}</div>
-                        <div class="salePrice">{{prod.salePrice}}</div>
-                    </div>
-
-                    <div class="titleBlock left">
-                        <a href="#" title="{{prod.name}}" ng-click="openDialog(prod)">{{addEllipsis(prod.name, 25, false)}}</a>
-                    </div>
-
-                    <div class="descBlock clearBoth">{{addEllipsis(prod.shortDescription, 80, false)}}</div>
-                    <div class="footerBlock clearBoth">
-                        <div class="promotion left" ng-if="prod.hasPromotion===true">Promotion</div>
-                        <div class="customerRating right"></div>
-                        <div class="customerRatingMask right">{{getStarRatings(prod.customerRating, 5, ".customerRatingMask", prod.sku)}}</div>
-                    </div>
-                </li>
-            </ul>
+            <div ng-include="productTpl"></div>
         </div>
     </div>

@@ -2,6 +2,12 @@
  * Developer: Satish Sekar
  * Main config file
  */
+
+bbyc.common.config(function($httpProvider) {
+	$httpProvider.defaults.useXDomain = true;
+	delete $httpProvider.defaults.headers.common['X-Requested-With'];
+});
+
 bbyc.common.value('Config',
     {
         root: "http://www.bestbuy.ca",
@@ -13,6 +19,14 @@ bbyc.common.value('Config',
             DialogView: {
                 enable: false,
                 pageName: "dialog.html"
+            },
+			CategoryView: {
+                enable: true,
+                pageName: "category.html"
+            },
+			ProductView: {
+                enable: true,
+                pageName: "product.html"
             }
         },
         services: {

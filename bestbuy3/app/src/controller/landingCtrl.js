@@ -26,13 +26,12 @@ bbyc.common.controller('landingController', ['$scope', 'Config', 'DialogConfig',
                     $scope.products = data.products;
                 })
     };
-
+	
     $scope.getStarRatings = function(input, max, elem, sku) {
-        var width = $(elem).width();
-        var factor = (input/max)*width;
+        var factor = (input/max)*80;
         $("ul.products li." + sku + " " + elem).css("width", factor + "px");
     };
-
+	
     $scope.refreshCategories();
     $scope.refreshProducts($scope.categories[0]);
 

@@ -3,7 +3,7 @@ bbyc.common.factory('CommonUtils', ['Config', '$http', '$q', function(Config, $h
         getServiceResponse: function (path) {
             var deferred = $q.defer();
 
-            $http.get(path, {withCredentials: true}).success(function(data) {
+            $http.get(path).success(function(data) {
                 deferred.resolve(data);
             }).error(function(data) {
                 deferred.reject(data);
