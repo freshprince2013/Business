@@ -1,0 +1,25 @@
+<ul class="products">
+	<li ng-repeat="prod in products" class="left {{prod.sku}}">
+		<div class="thumbBlock">
+			<img ng-src="{{config.root}}{{prod.thumbnailImage}}" />
+		</div>
+
+		<div class="price">
+			<div class="regularPrice {{getRegularClass(prod)}}">${{prod.regularPrice}}</div>
+			<div class="salePrice" ng-if="prod.regularPrice !== prod.salePrice">${{prod.salePrice}}</div>
+		</div>
+
+		<div class="titleBlock left">
+			<a href="#" title="{{prod.name}}" ng-click="openDialog(prod)">{{addEllipsis(prod.name, 25, false)}}</a>
+		</div>
+
+		<div class="descBlock clearBoth">{{addEllipsis(prod.shortDescription, 80, false)}}</div>
+		<div class="footerBlock clearBoth">
+			<div class="promotion left" ng-if="prod.hasPromotion===true">Promotion</div>
+			<div class="ratingsBlock right">
+				<div class="customerRating left"></div>
+				<div class="customerRatingMask left">{{getStarRatings(prod.customerRating, 5, ".customerRatingMask", prod.sku)}}</div>
+			</div>
+		</div>
+	</li>
+</ul>
