@@ -1,0 +1,33 @@
+<script id="product-list" type="text/x-handlebars-template">​
+<ul class="products">
+	{{#each product}}
+	<li id="{{sku}}" class="left {{sku}}">
+		<div class="thumbBlock">
+			<img src="{{thumbnailFullPath}}" alt="{{name}}" title="{{name}}" />
+		</div>
+		
+		<div class="price">
+			<div class="regularPrice {{regularClass}}">${{regularPrice}}</div>
+			{{#priceEq v1 v2}}
+				<div class="salePrice">${{salePrice}}</div>
+			{{/priceEq}}
+		</div>
+		
+		<div class="titleBlock left">
+			<a href="#" title="{{name}}">{{shortName}}</a>
+		</div>
+		
+		<div class="descBlock clearBoth">{{shortDesc}}</div>
+		<div class="footerBlock clearBoth">
+			{{#if hasPromotion}}
+				<div class="promotion left">Promotion</div>
+			{{/if}}
+			<div class="ratingsBlock right">
+				<div class="customerRating left"></div>
+				<div class="customerRatingMask left" style="width: {{custStar}}px"></div>
+			</div>
+		</div>
+	</li>
+	{{/each}}
+</ul>
+</script>
