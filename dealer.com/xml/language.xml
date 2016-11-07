@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ 	Name: Satish Sekar
+	Web App: Single Page Application (SPA)
+  	Purpose: This XML file stores language strings for internationalization
+-->
+<!DOCTYPE contents [
+<!ENTITY nbsp   "&#38;#160;">
+<!ENTITY copy   "&#38;#169;">
+]>
+<contents>
+	<main-content>
+		<press-release>
+			<caption>
+				<lang option="en">Dealer.com Awarded Patent for its Human Voice Inventory Video Technology</lang>
+				<lang option="fr">Dealer.com obtient un brevet pour sa voix humaine Inventaire Video Technology</lang>
+				<lang option="es">Dealer.com concede la patente por su voz humana de la tecnología de vídeo</lang>
+				<lang option="cn">Dealer.com&#33635;&#33719;&#19987;&#21033;&#20154;&#22768;&#24211;&#23384;&#35270;&#35759;&#31185;&#25216;</lang>
+				<lang option="in">Dealer.com &#2309;&#2346;&#2344;&#2375; &#2350;&#2366;&#2344;&#2357; &#2310;&#2357;&#2366;&#2332; &#2311;&#2344;&#2381;&#2357;&#2375;&#2306;&#2335;&#2352;&#2368; &#2357;&#2368;&#2337;&#2367;&#2351;&#2379; &#2346;&#2381;&#2352;&#2380;&#2342;&#2381;&#2351;&#2379;&#2327;&#2367;&#2325;&#2368; &#2325;&#2375; &#2354;&#2367;&#2319; &#2346;&#2375;&#2335;&#2375;&#2306;&#2335; &#2360;&#2375; &#2360;&#2350;&#2381;&#2350;&#2366;&#2344;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366;</lang>
+			</caption>
+			
+			<content>
+				<lang option="en" limit="2">
+				<![CDATA[
+					April 5, 2012 (Burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, today announced it has been awarded US. Patent No. 8112279 for its audio file creation technology featured in its CarFlix HumanVoice product. The CarFlix solution allows dealers to easily create professional quality videos with natural, human voiceovers to enhance an automobile's online presentation to potential buyers.
+					<p>April 5, 2012 (Burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, today announced it has been awarded US. Patent No. 8112279 for its audio file creation technology featured in its CarFlix HumanVoice product. The CarFlix solution allows dealers to easily create professional quality videos with natural, human voiceovers to enhance an automobile's online presentation to potential buyers.</p>
+					<p>April 5, 2012 (Burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, today announced it has been awarded US. Patent No. 8112279 for its audio file creation technology featured in its CarFlix HumanVoice product. The CarFlix solution allows dealers to easily create professional quality videos with natural, human voiceovers to enhance an automobile's online presentation to potential buyers.</p>
+					<p>April 5, 2012 (Burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, today announced it has been awarded US. Patent No. 8112279 for its audio file creation technology featured in its CarFlix HumanVoice product. The CarFlix solution allows dealers to easily create professional quality videos with natural, human voiceovers to enhance an automobile's online presentation to potential buyers.</p>
+					<p>April 5, 2012 (Burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, today announced it has been awarded US. Patent No. 8112279 for its audio file creation technology featured in its CarFlix HumanVoice product. The CarFlix solution allows dealers to easily create professional quality videos with natural, human voiceovers to enhance an automobile's online presentation to potential buyers.</p>
+					<p>April 5, 2012 (Burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, today announced it has been awarded US. Patent No. 8112279 for its audio file creation technology featured in its CarFlix HumanVoice product. The CarFlix solution allows dealers to easily create professional quality videos with natural, human voiceovers to enhance an automobile's online presentation to potential buyers.</p>
+					<p>April 5, 2012 (Burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, today announced it has been awarded US. Patent No. 8112279 for its audio file creation technology featured in its CarFlix HumanVoice product. The CarFlix solution allows dealers to easily create professional quality videos with natural, human voiceovers to enhance an automobile's online presentation to potential buyers.</p>
+				]]>
+				</lang>
+				<lang option="fr">5 avril 2012 (Burlington, VT) - Dealer.com, le leader mondial des solutions de marketing en ligne pour l'industrie automobile, a annoncé aujourd'hui qu'elle a obtenu US. Brevet n ° 8112279 pour sa technologie de création de fichiers audio en vedette dans son produit CarFlix HumanVoice. La solution CarFlix permet aux concessionnaires de créer facilement des vidéos de qualité professionnelle avec naturels, voix-off de l'homme pour améliorer la présentation en ligne d'une automobile pour les acheteurs potentiels.</lang>
+				<lang option="es">05 de abril 2012 (Burlington, VT) - Dealer.com, el líder global en soluciones de marketing en línea para la industria del automóvil, ha anunciado hoy que ha sido galardonado con EE.UU.. Patente No. 8112279 por su tecnología de creación de archivos de audio aparece en su producto CarFlix HumanVoice. La solución permite a los distribuidores CarFlix crear fácilmente vídeos de calidad profesional, con voces en off humanos naturales para mejorar la presentación en línea de un automóvil a los compradores potenciales.</lang>
+				<lang option="cn">2012&#24180;4&#26376;5&#26085;&#65288;&#20271;&#28789;&#39039;&#65292;VT&#65289; - Dealer.com&#65292;&#27773;&#36710;&#34892;&#19994;&#30340;&#22312;&#32447;&#33829;&#38144;&#35299;&#20915;&#26041;&#26696;&#30340;&#20840;&#29699;&#39046;&#23548;&#32773;&#65292;&#20170;&#22825;&#23459;&#24067;&#65292;&#23427;&#24050;&#33719;&#24471;&#32654;&#22269;&#12290;&#19987;&#21033;&#21495;&#20026;8112279&#30340;&#38899;&#39057;&#25991;&#20214;&#21019;&#24314;&#25216;&#26415;&#29305;&#33394;&#20854;CarFlix&#30340;HumanVoice&#20135;&#21697;&#12290;&#30340;CarFlix&#35299;&#20915;&#26041;&#26696;&#65292;&#35753;&#32463;&#38144;&#21830;&#36731;&#26494;&#22320;&#21019;&#24314;&#19987;&#19994;&#21697;&#36136;&#30340;&#35270;&#39057;&#19982;&#33258;&#28982;&#65292;&#20154;&#30340;&#37197;&#38899;&#65292;&#20197;&#25552;&#39640;&#27773;&#36710;&#30340;&#28508;&#22312;&#20080;&#23478;&#22312;&#32447;&#28436;&#31034;&#12290;</lang>
+				<lang option="in">5 &#2309;&#2346;&#2381;&#2352;&#2376;&#2354; 2012 (&#2348;&#2352;&#2381;&#2354;&#2367;&#2306;&#2327;&#2335;&#2344;, &#2357;&#2368;&#2335;&#2368;) - Dealer.com, &#2350;&#2379;&#2335;&#2352; &#2357;&#2366;&#2361;&#2344; &#2313;&#2342;&#2381;&#2351;&#2379;&#2327; &#2325;&#2375; &#2354;&#2367;&#2319; &#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2357;&#2367;&#2346;&#2339;&#2344; &#2360;&#2350;&#2366;&#2343;&#2366;&#2344; &#2350;&#2375;&#2306; &#2357;&#2376;&#2358;&#2381;&#2357;&#2367;&#2325; &#2344;&#2375;&#2340;&#2366;, &#2310;&#2332; &#2351;&#2361; &#2309;&#2350;&#2375;&#2352;&#2367;&#2325;&#2366; &#2360;&#2375; &#2360;&#2350;&#2381;&#2350;&#2366;&#2344;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366; &#2327;&#2351;&#2366; &#2361;&#2376; &#2325;&#2368; &#2328;&#2379;&#2359;&#2339;&#2366; &#2325;&#2368;. &#2311;&#2360;&#2325;&#2368; &#2321;&#2337;&#2367;&#2351;&#2379; &#2347;&#2364;&#2366;&#2311;&#2354; &#2344;&#2367;&#2352;&#2381;&#2350;&#2366;&#2339; &#2346;&#2381;&#2352;&#2380;&#2342;&#2381;&#2351;&#2379;&#2327;&#2367;&#2325;&#2368; &#2325;&#2375; &#2354;&#2367;&#2319; &#2346;&#2375;&#2335;&#2375;&#2306;&#2335; &#2344;&#2306;&#2348;&#2352; 8112279 &#2309;&#2346;&#2344;&#2368; CarFlix HumanVoice &#2313;&#2340;&#2381;&#2346;&#2366;&#2342; &#2350;&#2375;&#2306; &#2330;&#2367;&#2340;&#2381;&#2352;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366;. CarFlix &#2360;&#2350;&#2366;&#2343;&#2366;&#2344; &#2337;&#2368;&#2354;&#2352;&#2379;&#2306; &#2310;&#2360;&#2366;&#2344;&#2368; &#2360;&#2375; &#2360;&#2306;&#2349;&#2366;&#2357;&#2367;&#2340; &#2326;&#2352;&#2368;&#2342;&#2366;&#2352;&#2379;&#2306; &#2325;&#2375; &#2354;&#2367;&#2319; &#2319;&#2325; &#2357;&#2366;&#2361;&#2344; &#2325;&#2368; &#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2346;&#2381;&#2352;&#2360;&#2381;&#2340;&#2369;&#2340;&#2367; &#2325;&#2379; &#2348;&#2338;&#2364;&#2366;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2346;&#2381;&#2352;&#2366;&#2325;&#2371;&#2340;&#2367;&#2325;, &#2350;&#2366;&#2344;&#2357; voiceovers &#2325;&#2375; &#2360;&#2366;&#2341; &#2346;&#2375;&#2358;&#2375;&#2357;&#2352; &#2327;&#2369;&#2339;&#2357;&#2340;&#2381;&#2340;&#2366; &#2357;&#2368;&#2337;&#2367;&#2351;&#2379; &#2348;&#2344;&#2366;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2309;&#2344;&#2369;&#2350;&#2340;&#2367; &#2342;&#2375;&#2340;&#2366; &#2361;&#2376;.</lang>
+			</content>
+		</press-release>
+		
+		<press-release>
+			<caption>
+				<lang option="en">Dealer.com Awarded 'Highest Rated' Dealer Satisfaction Award for MobileSites by DrivingSales</lang>
+				<lang option="fr">Dealer.com Remise 'mieux notés «Prix de satisfaction des concessionnaires pour MobileSites par DrivingSales</lang>
+				<lang option="es">Premio Dealer.com concede 'Mejor calificados' Dealer satisfacción de MobileSites por DrivingSales</lang>
+				<lang option="cn">&#26368;&#39640;&#39069;&#23450;Dealer.com&#35780;&#20026;&#8220;&#32463;&#38144;&#21830;&#28385;&#24847;&#24230;&#22870;&#30001;DrivingSales MobileSites</lang>
+				<lang option="in">DrivingSales &#2342;&#2381;&#2357;&#2366;&#2352;&#2366; MobileSites &#2354;&#2367;&#2319; Dealer.com &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2371;&#2340; '&#2313;&#2330;&#2381;&#2330;&#2340;&#2350; &#2352;&#2375;&#2335;' &#2337;&#2368;&#2354;&#2352; &#2360;&#2306;&#2340;&#2379;&#2359; &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2366;&#2352;</lang>
+			</caption>
+			
+			<content>
+				<lang option="en" limit="1">
+				<![CDATA[
+					February 3, 2012 (burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, proudly received the "Highest Rated - Mobile Sites" award in the third annual DrivingSales Dealer Satisfaction Awards. The awards are determined by thousands of auto dealers who are part of the DrivingSales.com community.
+					<p>"We are truly honored that dealers have ranked MobileSites as the top in the category and appreciate the recognition by DrivingSales," said Mark Bonfigli, CEO of Dealer.com. "At Dealer.com, our goal is to bring the best and most influential solutions to our dealer customers to help them grow their brand and their business. MobileSites is an important and critical tool that ensures dealers put their best face forward to prospective customers at every point in their sales process."</p>
+					<p>Dealer.com released this enhanced product during a time when mobile usage continues to grow astronomically. According to a recent report from Cisco, mobile data use nearly tripled between 2009 and 2010 - and the number of mobile-only users is expected to grow 25-fold between 2010 and 2015.</p>
+					<p>"We are proud to present the DrivingSales Dealer Satisfaction 'Highest Rated' Dealer Satisfaction Award to Dealer.com for achieving the most coveted accolade of all, the satisfaction of its dealer customers," said DrivingSales CEO and Founder Jared Hamilton. "This award, based on the direct input pf the dealer community, recognizes service providers like Dealer.com who are leading the way in innovation, performance and customer service. We congratulate Dealer.com on excelling in meeting and exceeding the needs of its dealer customers."</p>
+					<p>MobileSites v.2.5 seamlessly integrates enhanced video capabilities, CarFax history reportsand ePricer, Dealer.com's top lead-generating tool, allowing customers to experience full website functionality while browsing from a mobile device. The upgrade promotes further brand consistency between a dealer's mobile website and traditional website by providing integrated layout and design features. In addition, the MobileSites v.2.5 accomodates more powerful mobile devices and networking speeds.</p>
+					<p>The latest version of Dealer.com's MobileSites mirrors the technology of the company's award-winning SmartSites - a product which provides customers with an engaging website experience while supporting dealers with the tools to easily and effectively update and monitor their brand online.</p>
+				]]>
+				</lang>
+				<lang option="fr" limit="1">
+				<![CDATA[
+					3 février 2012 (Burlington, VT) - Dealer.com, le leader mondial des solutions de marketing en ligne pour l'industrie automobile, a fièrement reçu le "rating le plus élevé - les sites mobiles» décerné à la troisième édition annuelle DrivingSales satisfaction des concessionnaires Awards. Les prix sont déterminés par des milliers de concessionnaires automobiles qui font partie de la communauté DrivingSales.com.
+					<p> «Nous sommes très honorés que les concessionnaires ont classé MobileSites que le haut de la catégorie et apprécier la reconnaissance par DrivingSales", a déclaré Mark Bonfigli, PDG de Dealer.com. «Au Dealer.com, notre objectif est d'apporter les meilleurs et les plus influents des solutions à nos clients distributeurs pour les aider à développer leur marque et leur activité. MobileSites est un outil important et essentiel qui assure concessionnaires mettent leur meilleur visage en avant à des clients potentiels à chaque point de leur processus de vente. "</p>
+					<p> Dealer.com publié ce produit amélioré à une époque où l'utilisation mobile continue de croître astronomique. Selon un rapport récent de Cisco, les données mobiles utilisent presque triplé entre 2009 et 2010 - et devrait le nombre de mobiles que les utilisateurs de croître 25 fois entre 2010 et 2015. </p>
+					<p> «Nous sommes fiers de vous présenter le DrivingSales concessionnaire Satisfaction" Les mieux notés "Prix de satisfaction des concessionnaires de Dealer.com pour atteindre la récompense la plus convoitée de toutes, la satisfaction de ses clients distributeurs», a déclaré le PDG et fondateur DrivingSales Jared Hamilton. «Ce prix, fondé sur le PF d'entrée directe la communauté des courtiers, reconnaît les fournisseurs de services comme Dealer.com qui ouvrent la voie en matière d'innovation, de performance et de service à la clientèle. Nous félicitons Dealer.com sur exceller pour satisfaire et dépasser les besoins de son distributeur clients. "</p>
+					<p> MobileSites V.2.5 s'intègre parfaitement fonctionnalités vidéo avancées, l'histoire CarFax reportsand ePricer, outil plomb génératrice supérieure de Dealer.com, permettant aux clients de découvrir les fonctionnalités du site Web pendant la navigation à partir d'un appareil mobile. La mise à niveau favorise davantage la cohérence de la marque entre site mobile d'un revendeur et un site Web traditionnel en fournissant disposition intégrée et caractéristiques de conception. En outre, le MobileSites v.2.5 accueille les appareils mobiles les plus puissants et les vitesses de réseau. </p>
+					<p> La dernière version de MobileSites de Dealer.com reflète la technologie de SiteGénial primés de la société - un produit qui offre aux clients une expérience de site Web attrayant, tout en soutenant les concessionnaires les outils nécessaires pour facilement et efficacement mettre à jour et contrôler leur image de marque en ligne. </p>
+				]]>
+				</lang>
+				
+				<lang option="es" limit="1">
+				<![CDATA[
+					03 de febrero 2012 (Burlington, VT) - Dealer.com, el líder global en soluciones de marketing en línea para la industria del automóvil, recibió con orgullo el - premio "Mayor puntuación Sitios Móviles" en la tercera DrivingSales anuales Dealer Satisfaction Awards. Los premios son determinados por miles de concesionarios de automóviles que forman parte de la comunidad DrivingSales.com.
+					<p>"Nos sentimos muy honrados de que los distribuidores han calificado MobileSites como la parte superior de la categoría y apreciar el reconocimiento por DrivingSales", dijo Mark Bonfigli, director general de Dealer.com. "En Dealer.com, nuestro objetivo es llevar a los mejores y más influyentes de soluciones a nuestros clientes distribuidores para ayudarles a crecer su marca y su negocio. MobileSites es una herramienta importante y fundamental que garantiza distribuidores ponen su mejor cara a los clientes potenciales a cada punto de su proceso de ventas. "</p>
+					<p>Dealer.com publicado este producto mejorado en un momento en que el uso del móvil sigue creciendo astronómicamente. De acuerdo con un informe reciente de Cisco, los datos móviles utilizan casi se triplicaron entre 2009 y 2010 - y se espera que el número de usuarios únicos móviles de crecer 25 veces entre 2010 y 2015.</p>
+					<p>"Estamos orgullosos de presentar 'Mejor calificados" Premio Satisfacción del DrivingSales Dealer Dealer satisfacción de Dealer.com para lograr el galardón más codiciado de todos, la satisfacción de sus clientes distribuidores ", dijo el CEO y fundador DrivingSales Jared Hamilton. "Este premio, basado en el pf entrada directa a la comunidad comerciante, reconoce a proveedores de servicios como Dealer.com que están liderando el camino en la innovación, el rendimiento y servicio al cliente. Felicitamos Dealer.com de sobresalir en satisfacer y exceder las necesidades de su distribuidor clientes ".</p>
+					<p>MobileSites v.2.5 integra capacidades de vídeo mejoradas, Carfax historia reportsand ePricer, top herramienta principal generadora de Dealer.com 's, lo que permite a los clientes experimentar la funcionalidad completa página web mientras se navega desde un dispositivo móvil. La actualización promueve una mayor consistencia de la marca entre el sitio web para móviles de un distribuidor y sitio web tradicional, proporcionando diseño integrado y las características de diseño. Además, la v.2.5 MobileSites acomoda más potentes dispositivos móviles y las velocidades de redes.</p>
+					<p>La última versión de MobileSites Dealer.com 's refleja la tecnología de SmartSites galardonados de la empresa - un producto que ofrece a los clientes una experiencia web atractiva, mientras que el apoyo a los distribuidores las herramientas necesarias para actualizar y supervisar su marca en línea con facilidad y eficacia.</p>
+				]]>
+				</lang>
+				
+				<lang option="cn" limit="1">
+				<![CDATA[
+					&#33635;&#33719;2012&#24180;2&#26376;3&#26085;&#65288;&#20271;&#28789;&#39039;&#65292;VT&#65289; - Dealer.com&#65292;&#20026;&#27773;&#36710;&#34892;&#19994;&#30340;&#32593;&#32476;&#33829;&#38144;&#35299;&#20915;&#26041;&#26696;&#30340;&#20840;&#29699;&#39046;&#23548;&#32773;&#65292;&#22312;&#31532;&#19977;&#24180;&#24230;DrivingSales&#32463;&#38144;&#21830;&#28385;&#24847;&#24230;&#22870;&#8220;&#26368;&#39640;&#35780;&#20998; - &#25163;&#26426;&#32593;&#31449;&#8221;&#22870;&#12290;&#35813;&#22870;&#39033;&#26159;&#30001;&#25968;&#20197;&#21315;&#35745;&#30340;&#27773;&#36710;&#32463;&#38144;&#21830;&#65292;&#35841;&#26159;&#19968;&#37096;&#20998;DrivingSales.com&#31038;&#20250;&#12290;
+					<p>&#32463;&#38144;&#21830;&#25490;&#21517;MobileSites&#20316;&#20026;&#26368;&#39640;&#30340;&#31867;&#21035;&#65292;&#24182;&#27427;&#36175;DrivingSales&#35748;&#21487;&#65292;&#25105;&#20204;&#28145;&#24863;&#33635;&#24184;&#65292;&#8220;&#39532;&#20811;&#35828;Bonfigli&#65292;Dealer.com&#39318;&#24109;&#25191;&#34892;&#23448;&#12290; &#8220;&#22312;Dealer.com&#65292;&#25105;&#20204;&#30340;&#30446;&#26631;&#26159;&#25105;&#20204;&#30340;&#32463;&#38144;&#21830;&#23458;&#25143;&#24102;&#26469;&#26368;&#22909;&#30340;&#21644;&#26368;&#26377;&#24433;&#21709;&#21147;&#30340;&#35299;&#20915;&#26041;&#26696;&#65292;&#20197;&#24110;&#21161;&#20182;&#20204;&#21457;&#23637;&#33258;&#24049;&#30340;&#21697;&#29260;&#21644;&#20182;&#20204;&#30340;&#19994;&#21153;&#12290;MobileSites&#26159;&#19968;&#20010;&#37325;&#35201;&#21644;&#20851;&#38190;&#30340;&#24037;&#20855;&#65292;&#20197;&#30830;&#20445;&#32463;&#38144;&#21830;&#25226;&#8203;&#8203;&#33258;&#24049;&#26368;&#22909;&#30340;&#19968;&#38754;&#20934;&#23458;&#25143;&#20182;&#20204;&#30340;&#38144;&#21806;&#36807;&#31243;&#20013;&#30340;&#27599;&#19968;&#28857;&#12290;&#8220;</p>
+					<p>Dealer.com&#21457;&#24067;&#36825;&#20010;&#26399;&#38388;&#22686;&#24378;&#20102;&#20135;&#21697;&#30340;&#31227;&#21160;&#20351;&#29992;&#30340;&#26102;&#20505;&#32487;&#32493;&#22825;&#25991;&#25968;&#23383;&#33324;&#30340;&#22686;&#38271;&#12290;&#26681;&#25454;&#24605;&#31185;&#26368;&#36817;&#30340;&#19968;&#20221;&#25253;&#21578;&#65292;&#31227;&#21160;&#25968;&#25454;&#20351;&#29992;&#36817;&#19977;&#20493;&#65292;&#22312;2009&#24180;&#21644;2010&#24180;&#20043;&#38388; - &#22312;2010&#24180;&#21644;2015&#24180;&#20043;&#38388;&#65292;&#20165;&#31227;&#21160;&#29992;&#25143;&#25968;&#37327;&#39044;&#35745;&#23558;&#22686;&#38271;25&#20493;&#12290;</p>
+					<p>&#35828;&#65306;&#8220;&#25105;&#20204;&#24456;&#33258;&#35946;&#22320;&#20171;&#32461;DrivingSales&#32463;&#38144;&#21830;&#28385;&#24847;&#24230;&#8221;&#26368;&#39640;&#35780;&#20998;&#8220;&#32463;&#38144;&#21830;&#28385;&#24847;&#24230;&#22870;&#65292;Dealer.com&#23454;&#29616;&#26368;&#20196;&#20154;&#22402;&#28046;&#8203;&#8203;&#30340;&#33635;&#35465;&#65292;&#23427;&#30340;&#32463;&#38144;&#21830;&#23458;&#25143;&#28385;&#24847;&#30340;&#65292;&#8221;DrivingSales&#39318;&#24109;&#25191;&#34892;&#23448;&#21644;&#21019;&#22987;&#20154;&#36158;&#37324;&#24503;&#27721;&#23494;&#23572;&#39039;&#12290; &#8220;&#36825;&#20010;&#22870;&#39033;&#65292;&#30452;&#25509;&#36755;&#20837;PF&#32463;&#38144;&#21830;&#31038;&#21306;&#30340;&#22522;&#30784;&#19978;&#65292;&#35748;&#35782;&#21040;&#26381;&#21153;&#25552;&#20379;&#21830;&#20687;Dealer.com&#35841;&#26159;&#39046;&#23548;&#26041;&#24335;&#21019;&#26032;&#65292;&#19994;&#32489;&#21644;&#23458;&#25143;&#26381;&#21153;&#12290;&#25105;&#20204;&#31069;&#36154;Dealer.com&#25797;&#38271;&#20110;&#28385;&#36275;&#24182;&#36229;&#36234;&#20854;&#32463;&#38144;&#21830;&#30340;&#38656;&#27714;&#23458;&#25143;&#8220;&#12290;</p>
+					<p>V.2.5 MobileSites&#26080;&#32541;&#38598;&#25104;&#65292;&#22686;&#24378;&#30340;&#35270;&#39057;&#21151;&#33021;&#65292;CARFAX&#30340;&#21382;&#21490;reportsand ePricer&#65292;Dealer.com&#30340;&#39030;&#37096;&#38085;&#29983;&#25104;&#24037;&#20855;&#65292;&#35753;&#23458;&#25143;&#20307;&#39564;&#21040;&#23436;&#25972;&#30340;&#32593;&#31449;&#21151;&#33021;&#65292;&#21516;&#26102;&#20174;&#31227;&#21160;&#35774;&#22791;&#27983;&#35272;&#12290;&#21319;&#32423;&#36827;&#19968;&#27493;&#25552;&#21319;&#21697;&#29260;&#30340;&#19968;&#33268;&#24615;&#65292;&#20132;&#26131;&#21830;&#20043;&#38388;&#30340;&#31227;&#21160;&#32593;&#31449;&#21644;&#20256;&#32479;&#32593;&#31449;&#36890;&#36807;&#25552;&#20379;&#38598;&#25104;&#30340;&#24067;&#23616;&#21644;&#35774;&#35745;&#29305;&#28857;&#12290;&#27492;&#22806;&#20013;&#65292;MobileSites V.2.5&#23481;&#32435;&#26356;&#24378;&#22823;&#30340;&#31227;&#21160;&#35774;&#22791;&#21644;&#32593;&#32476;&#30340;&#36895;&#24230;&#12290;</p>
+					<p>&#26368;&#26032;&#29256;&#26412;&#30340;Dealer.com MobileSites&#21453;&#26144;&#30340;&#20844;&#21496;&#30340;&#33719;&#22870;SmartSites&#30340;&#25216;&#26415; - &#19968;&#31181;&#20135;&#21697;&#65292;&#20026;&#23458;&#25143;&#25552;&#20379;&#20102;&#19968;&#20010;&#21560;&#24341;&#20154;&#30340;&#32593;&#31449;&#20307;&#39564;&#65292;&#21516;&#26102;&#25903;&#25345;&#32463;&#38144;&#21830;&#30340;&#24037;&#20855;&#65292;&#36731;&#26494;&#65292;&#26377;&#25928;&#22320;&#26356;&#26032;&#21644;&#22312;&#32447;&#30417;&#25511;&#33258;&#24049;&#30340;&#21697;&#29260;&#12290;</p>
+				]]>
+				</lang>
+				
+				<lang option="in" limit="1">
+				<![CDATA[
+					3 &#2347;&#2364;&#2352;&#2357;&#2352;&#2368; 2012 (&#2348;&#2352;&#2381;&#2354;&#2367;&#2306;&#2327;&#2335;&#2344;, &#2357;&#2368;&#2335;&#2368;) - &#2340;&#2368;&#2360;&#2352;&#2366; &#2357;&#2366;&#2352;&#2381;&#2359;&#2367;&#2325; DrivingSales &#2337;&#2368;&#2354;&#2352; &#2360;&#2306;&#2340;&#2379;&#2359; &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2366;&#2352; &#2350;&#2375;&#2306; - "&#2350;&#2379;&#2348;&#2366;&#2311;&#2354; &#2360;&#2366;&#2311;&#2335; &#2313;&#2330;&#2381;&#2330;&#2340;&#2350; &#2352;&#2375;&#2335;&#2375;&#2337;" &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2366;&#2352; Dealer.com, &#2350;&#2379;&#2335;&#2352; &#2357;&#2366;&#2361;&#2344; &#2313;&#2342;&#2381;&#2351;&#2379;&#2327; &#2325;&#2375; &#2354;&#2367;&#2319; &#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2357;&#2367;&#2346;&#2339;&#2344; &#2360;&#2350;&#2366;&#2343;&#2366;&#2344; &#2350;&#2375;&#2306; &#2357;&#2376;&#2358;&#2381;&#2357;&#2367;&#2325; &#2344;&#2375;&#2340;&#2366;, &#2327;&#2352;&#2381;&#2357; &#2360;&#2375; &#2346;&#2381;&#2352;&#2366;&#2346;&#2381;&#2340; &#2325;&#2367;&#2351;&#2366;. &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2366;&#2352; DrivingSales.com &#2360;&#2350;&#2369;&#2342;&#2366;&#2351; &#2325;&#2366; &#2361;&#2367;&#2360;&#2381;&#2360;&#2366; &#2361;&#2376;&#2306;, &#2332;&#2379; &#2321;&#2335;&#2379; &#2337;&#2368;&#2354;&#2352;&#2379;&#2306; &#2325;&#2375; &#2361;&#2332;&#2366;&#2352;&#2379;&#2306; &#2342;&#2381;&#2357;&#2366;&#2352;&#2366; &#2344;&#2367;&#2352;&#2381;&#2343;&#2366;&#2352;&#2367;&#2340; &#2325;&#2352; &#2352;&#2361;&#2375; &#2361;&#2376;&#2306;.
+					<p>"&#2361;&#2350; &#2357;&#2366;&#2360;&#2381;&#2340;&#2357; &#2350;&#2375;&#2306; &#2337;&#2368;&#2354;&#2352;&#2379;&#2306; &#2325;&#2375; &#2357;&#2352;&#2381;&#2327; &#2350;&#2375;&#2306; &#2358;&#2368;&#2352;&#2381;&#2359; &#2325;&#2375; &#2352;&#2370;&#2346; &#2350;&#2375;&#2306; MobileSites &#2360;&#2381;&#2341;&#2366;&#2344; &#2346;&#2352; &#2352;&#2361;&#2368;&#2306; &#2324;&#2352; DrivingSales &#2342;&#2381;&#2357;&#2366;&#2352;&#2366; &#2350;&#2366;&#2344;&#2381;&#2351;&#2340;&#2366; &#2325;&#2368; &#2360;&#2352;&#2366;&#2361;&#2344;&#2366; &#2325;&#2368; &#2361;&#2376; &#2325;&#2367; &#2360;&#2350;&#2381;&#2350;&#2366;&#2344;&#2367;&#2340; &#2325;&#2352; &#2352;&#2361;&#2375; &#2361;&#2376;&#2306;," &#2350;&#2366;&#2352;&#2381;&#2325; Bonfigli, Dealer.com &#2325;&#2375; &#2360;&#2368;&#2312;&#2323; &#2344;&#2375; &#2325;&#2361;&#2366;. "Dealer.com &#2350;&#2375;&#2306;, &#2361;&#2350;&#2366;&#2352;&#2375; &#2354;&#2325;&#2381;&#2359;&#2381;&#2351; &#2325;&#2375; &#2354;&#2367;&#2319; &#2313;&#2344;&#2381;&#2361;&#2375;&#2306; &#2309;&#2346;&#2344;&#2375; &#2348;&#2381;&#2352;&#2366;&#2306;&#2337; &#2324;&#2352; &#2309;&#2346;&#2344;&#2375; &#2357;&#2381;&#2351;&#2366;&#2346;&#2366;&#2352; &#2325;&#2375; &#2348;&#2338;&#2364;&#2344;&#2375; &#2350;&#2375;&#2306; &#2350;&#2342;&#2342; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2309;&#2346;&#2344;&#2375; &#2337;&#2368;&#2354;&#2352; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325;&#2379;&#2306; &#2325;&#2375; &#2354;&#2367;&#2319; &#2360;&#2348;&#2360;&#2375; &#2309;&#2330;&#2381;&#2331;&#2366; &#2324;&#2352; &#2360;&#2348;&#2360;&#2375; &#2346;&#2381;&#2352;&#2349;&#2366;&#2357;&#2358;&#2366;&#2354;&#2368; &#2360;&#2350;&#2366;&#2343;&#2366;&#2344; &#2354;&#2366;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2361;&#2376;. MobileSites &#2361;&#2376; &#2337;&#2368;&#2354;&#2352;&#2379;&#2306; &#2346;&#2352; &#2360;&#2306;&#2349;&#2366;&#2357;&#2367;&#2340; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325;&#2379;&#2306; &#2325;&#2375; &#2354;&#2367;&#2319; &#2310;&#2327;&#2375; &#2309;&#2346;&#2344;&#2366; &#2360;&#2352;&#2381;&#2357;&#2358;&#2381;&#2352;&#2375;&#2359;&#2381;&#2336; &#2330;&#2375;&#2361;&#2352;&#2366; &#2337;&#2366;&#2354; &#2360;&#2369;&#2344;&#2367;&#2358;&#2381;&#2330;&#2367;&#2340; &#2325;&#2352;&#2340;&#2366; &#2361;&#2376; &#2325;&#2367; &#2319;&#2325; &#2350;&#2361;&#2340;&#2381;&#2357;&#2346;&#2370;&#2352;&#2381;&#2339; &#2324;&#2352; &#2350;&#2361;&#2340;&#2381;&#2357;&#2346;&#2370;&#2352;&#2381;&#2339; &#2313;&#2346;&#2325;&#2352;&#2339; &#2313;&#2344;&#2325;&#2368; &#2348;&#2367;&#2325;&#2381;&#2352;&#2368; &#2346;&#2381;&#2352;&#2325;&#2381;&#2352;&#2367;&#2351;&#2366; &#2350;&#2375;&#2306; &#2361;&#2352; &#2348;&#2367;&#2306;&#2342;&#2369;. "</p>
+					<p>Dealer.com &#2350;&#2379;&#2348;&#2366;&#2311;&#2354; &#2325;&#2375; &#2313;&#2346;&#2351;&#2379;&#2327; astronomically &#2357;&#2371;&#2342;&#2381;&#2343;&#2367; &#2332;&#2366;&#2352;&#2368; &#2361;&#2376; &#2332;&#2348; &#2319;&#2325; &#2360;&#2350;&#2351; &#2325;&#2375; &#2342;&#2380;&#2352;&#2366;&#2344; &#2311;&#2360; &#2348;&#2338;&#2364;&#2366;&#2351;&#2366; &#2313;&#2340;&#2381;&#2346;&#2366;&#2342; &#2332;&#2366;&#2352;&#2368; &#2325;&#2367;&#2351;&#2366;. &#2360;&#2367;&#2360;&#2381;&#2325;&#2379; &#2360;&#2375; &#2319;&#2325; &#2340;&#2366;&#2332;&#2366; &#2352;&#2367;&#2346;&#2379;&#2352;&#2381;&#2335; &#2325;&#2375; &#2309;&#2344;&#2369;&#2360;&#2366;&#2352;, &#2350;&#2379;&#2348;&#2366;&#2311;&#2354; &#2337;&#2375;&#2335;&#2366; &#2354;&#2327;&#2349;&#2327; 2009 &#2324;&#2352; 2010 &#2325;&#2375; &#2348;&#2368;&#2330; &#2340;&#2368;&#2344; &#2327;&#2369;&#2344;&#2366; &#2325;&#2366; &#2313;&#2346;&#2351;&#2379;&#2327; &#2325;&#2352;&#2375;&#2306; - &#2324;&#2352; &#2350;&#2379;&#2348;&#2366;&#2311;&#2354; &#2325;&#2375;&#2357;&#2354; &#2313;&#2346;&#2351;&#2379;&#2327;&#2325;&#2352;&#2381;&#2340;&#2366;&#2323;&#2306; &#2325;&#2368; &#2360;&#2306;&#2326;&#2381;&#2351;&#2366; 2010 &#2324;&#2352; 2015 &#2325;&#2375; &#2348;&#2368;&#2330; 25 &#2327;&#2369;&#2344;&#2366; &#2348;&#2338;&#2364;&#2344;&#2375; &#2325;&#2368; &#2313;&#2350;&#2381;&#2350;&#2368;&#2342; &#2361;&#2376;.</p>
+					<p>"&#2361;&#2350; &#2360;&#2349;&#2368; &#2325;&#2366; &#2360;&#2348;&#2360;&#2375; &#2346;&#2381;&#2352;&#2340;&#2367;&#2359;&#2381;&#2336;&#2367;&#2340; &#2360;&#2350;&#2381;&#2350;&#2366;&#2344;, &#2309;&#2346;&#2344;&#2375; &#2337;&#2368;&#2354;&#2352; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325;&#2379;&#2306; &#2325;&#2368; &#2360;&#2306;&#2340;&#2369;&#2359;&#2381;&#2335;&#2367; &#2325;&#2379; &#2346;&#2381;&#2352;&#2366;&#2346;&#2381;&#2340; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; Dealer.com &#2325;&#2379; DrivingSales &#2337;&#2368;&#2354;&#2352; &#2360;&#2306;&#2340;&#2379;&#2359; '&#2313;&#2330;&#2381;&#2330;&#2340;&#2350; &#2352;&#2375;&#2335;' &#2337;&#2368;&#2354;&#2352; &#2360;&#2306;&#2340;&#2379;&#2359; &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2366;&#2352; &#2311;&#2360; &#2346;&#2352; &#2327;&#2352;&#2381;&#2357; &#2361;&#2376;," DrivingSales &#2360;&#2368;&#2312;&#2323; &#2324;&#2352; &#2360;&#2306;&#2360;&#2381;&#2341;&#2366;&#2346;&#2325; &#2332;&#2366;&#2352;&#2375;&#2337; &#2361;&#2376;&#2350;&#2367;&#2354;&#2381;&#2335;&#2344; &#2344;&#2375; &#2325;&#2361;&#2366;. "&#2346;&#2381;&#2352;&#2340;&#2381;&#2351;&#2325;&#2381;&#2359; &#2344;&#2367;&#2357;&#2375;&#2358; &#2346;&#2368;&#2319;&#2347; &#2357;&#2381;&#2351;&#2366;&#2346;&#2366;&#2352;&#2368; &#2360;&#2350;&#2369;&#2342;&#2366;&#2351; &#2325;&#2375; &#2310;&#2343;&#2366;&#2352; &#2346;&#2352; &#2311;&#2360; &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2366;&#2352;, &#2344;&#2357;&#2366;&#2330;&#2366;&#2352;, &#2346;&#2381;&#2352;&#2342;&#2352;&#2381;&#2358;&#2344; &#2324;&#2352; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325; &#2360;&#2375;&#2357;&#2366; &#2350;&#2375;&#2306; &#2332;&#2367;&#2360; &#2340;&#2352;&#2361; &#2325;&#2366; &#2344;&#2375;&#2340;&#2371;&#2340;&#2381;&#2357; &#2325;&#2352; &#2352;&#2361;&#2375; &#2361;&#2376;&#2306; &#2332;&#2379; Dealer.com &#2332;&#2376;&#2360;&#2375; &#2360;&#2375;&#2357;&#2366; &#2346;&#2381;&#2352;&#2342;&#2366;&#2340;&#2366;&#2323;&#2306; &#2325;&#2379; &#2346;&#2361;&#2330;&#2366;&#2344;&#2340;&#2366; &#2361;&#2376;. &#2361;&#2350; &#2348;&#2376;&#2336;&#2325; &#2350;&#2375;&#2306; &#2313;&#2340;&#2381;&#2325;&#2371;&#2359;&#2381;&#2335; &#2324;&#2352; &#2311;&#2360;&#2325;&#2375; &#2337;&#2368;&#2354;&#2352; &#2325;&#2368; &#2332;&#2352;&#2370;&#2352;&#2340;&#2379;&#2306; &#2360;&#2375; &#2309;&#2343;&#2367;&#2325; &#2346;&#2352; Dealer.com &#2348;&#2343;&#2366;&#2312; &#2342;&#2375;&#2340;&#2366; &#2361;&#2370;&#2306; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325;&#2379;&#2306;. "</p>
+					<p>MobileSites v.2.5 &#2319;&#2325; &#2350;&#2379;&#2348;&#2366;&#2311;&#2354; &#2337;&#2367;&#2357;&#2366;&#2311;&#2360; &#2360;&#2375; &#2348;&#2381;&#2352;&#2366;&#2313;&#2332;&#2364;&#2367;&#2306;&#2327;, &#2332;&#2348;&#2325;&#2367; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325;&#2379;&#2306; &#2325;&#2379; &#2346;&#2370;&#2352;&#2381;&#2339; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2325;&#2368; &#2325;&#2366;&#2352;&#2381;&#2351;&#2325;&#2381;&#2359;&#2350;&#2340;&#2366; &#2325;&#2366; &#2309;&#2344;&#2369;&#2349;&#2357; &#2325;&#2352;&#2344;&#2375; &#2325;&#2368; &#2311;&#2332;&#2366;&#2332;&#2340; &#2342;&#2368;, CarFax &#2311;&#2340;&#2367;&#2361;&#2366;&#2360; reportsand ePricer, Dealer.com &#2325;&#2375; &#2358;&#2368;&#2352;&#2381;&#2359; &#2344;&#2375;&#2340;&#2371;&#2340;&#2381;&#2357; &#2346;&#2376;&#2342;&#2366; &#2313;&#2346;&#2325;&#2352;&#2339; &#2348;&#2338;&#2364;&#2366;&#2351;&#2366; &#2357;&#2368;&#2337;&#2367;&#2351;&#2379; &#2325;&#2381;&#2359;&#2350;&#2340;&#2366;&#2323;&#2306; &#2350;&#2370;&#2354; &#2319;&#2325;&#2368;&#2325;&#2371;&#2340;. &#2313;&#2344;&#2381;&#2344;&#2351;&#2344; &#2319;&#2325;&#2368;&#2325;&#2371;&#2340; &#2354;&#2375;&#2310;&#2313;&#2335; &#2324;&#2352; &#2337;&#2367;&#2332;&#2366;&#2311;&#2344; &#2360;&#2369;&#2357;&#2367;&#2343;&#2366;&#2323;&#2306; &#2325;&#2379; &#2313;&#2346;&#2354;&#2348;&#2381;&#2343; &#2325;&#2352;&#2366;&#2344;&#2375; &#2325;&#2375; &#2342;&#2381;&#2357;&#2366;&#2352;&#2366; &#2319;&#2325; &#2357;&#2381;&#2351;&#2366;&#2346;&#2366;&#2352;&#2368; &#2325;&#2375; &#2350;&#2379;&#2348;&#2366;&#2311;&#2354; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2324;&#2352; &#2346;&#2366;&#2352;&#2306;&#2346;&#2352;&#2367;&#2325; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2325;&#2375; &#2348;&#2368;&#2330; &#2310;&#2327;&#2375; &#2348;&#2381;&#2352;&#2366;&#2306;&#2337; &#2360;&#2381;&#2341;&#2367;&#2352;&#2340;&#2366; &#2325;&#2379; &#2348;&#2338;&#2364;&#2366;&#2357;&#2366; &#2342;&#2375;&#2340;&#2366; &#2361;&#2376;. &#2311;&#2360;&#2325;&#2375; &#2309;&#2354;&#2366;&#2357;&#2366;, MobileSites v.2.5 &#2309;&#2343;&#2367;&#2325; &#2358;&#2325;&#2381;&#2340;&#2367;&#2358;&#2366;&#2354;&#2368; &#2350;&#2379;&#2348;&#2366;&#2311;&#2354; &#2313;&#2346;&#2325;&#2352;&#2339;&#2379;&#2306; &#2324;&#2352; &#2344;&#2375;&#2335;&#2357;&#2352;&#2381;&#2325;&#2367;&#2306;&#2327; &#2327;&#2340;&#2367; accomodates.</p>
+					<p>Dealer.com &#2325;&#2375; MobileSites &#2325;&#2366; &#2344;&#2357;&#2368;&#2344;&#2340;&#2350; &#2360;&#2306;&#2360;&#2381;&#2325;&#2352;&#2339; &#2325;&#2306;&#2346;&#2344;&#2368; &#2325;&#2375; &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2366;&#2352; &#2357;&#2367;&#2332;&#2375;&#2340;&#2366; SmartSites &#2325;&#2368; &#2346;&#2381;&#2352;&#2380;&#2342;&#2381;&#2351;&#2379;&#2327;&#2367;&#2325;&#2368; &#2342;&#2352;&#2381;&#2346;&#2339; - &#2313;&#2346;&#2325;&#2352;&#2339;&#2379;&#2306; &#2325;&#2375; &#2360;&#2366;&#2341; &#2337;&#2368;&#2354;&#2352;&#2379;&#2306; &#2325;&#2379; &#2310;&#2360;&#2366;&#2344;&#2368; &#2360;&#2375; &#2324;&#2352; &#2346;&#2381;&#2352;&#2349;&#2366;&#2357;&#2368; &#2352;&#2370;&#2346; &#2360;&#2375; &#2309;&#2342;&#2381;&#2351;&#2340;&#2344; &#2324;&#2352; &#2309;&#2346;&#2344;&#2375; &#2348;&#2381;&#2352;&#2366;&#2306;&#2337; &#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2325;&#2368; &#2344;&#2367;&#2327;&#2352;&#2366;&#2344;&#2368; &#2325;&#2352;&#2344;&#2375; &#2325;&#2366; &#2360;&#2350;&#2352;&#2381;&#2341;&#2344; &#2325;&#2352;&#2340;&#2375; &#2361;&#2369;&#2319; &#2319;&#2325; &#2313;&#2340;&#2381;&#2346;&#2366;&#2342; &#2361;&#2376; &#2332;&#2379; &#2319;&#2325; &#2310;&#2325;&#2352;&#2381;&#2359;&#2325; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2309;&#2344;&#2369;&#2349;&#2357; &#2325;&#2375; &#2360;&#2366;&#2341; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325;&#2379;&#2306; &#2325;&#2379; &#2346;&#2381;&#2352;&#2342;&#2366;&#2344; &#2325;&#2352;&#2340;&#2366; &#2361;&#2376;.</p>
+				]]>
+				</lang>
+			</content>
+		</press-release>
+		
+		<press-release>
+			<caption>
+				<lang option="en">The Dealer.com Digital Website Suite Features Powerful Marketing &amp; Management Apps in One Platform</lang>
+				<lang option="fr">Le Dealer.com numérique Suite site propose marketing puissant et applications de gestion sur une seule plateforme</lang>
+				<lang option="es">El Dealer.com Digital suite Website potentes funciones de marketing y aplicaciones de gestión en una báscula</lang>
+				<lang option="cn">&#22312;&#19968;&#20010;&#24179;&#21488;&#19978;&#65292;&#25968;&#30721;&#32593;&#31449;Dealer.com&#22871;&#25151;&#35774;&#26377;&#24378;&#22823;&#30340;&#33829;&#38144;&#21644;&#31649;&#29702;&#24212;&#29992;&#31243;&#24207;</lang>
+				<lang option="in">Dealer.com &#2337;&#2367;&#2332;&#2367;&#2335;&#2354; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2360;&#2369;&#2311;&#2335; &#2319;&#2325; &#2346;&#2381;&#2354;&#2375;&#2335;&#2347;&#2366;&#2352;&#2381;&#2350; &#2350;&#2375;&#2306; &#2358;&#2325;&#2381;&#2340;&#2367;&#2358;&#2366;&#2354;&#2368; &#2350;&#2366;&#2352;&#2381;&#2325;&#2375;&#2335;&#2367;&#2306;&#2327; &#2319;&#2306;&#2337; &#2350;&#2376;&#2344;&#2375;&#2332;&#2350;&#2375;&#2306;&#2335; &#2319;&#2346;&#2381;&#2346;&#2381;&#2360; &#2360;&#2369;&#2357;&#2367;&#2343;&#2366;&#2319;&#2305;</lang>
+			</caption>
+			
+			<content>
+				<lang option="en">February 2, 2012 (Burlington, VT) - Dealer.com, the global leader in online marketing solutions for the automotive industry, today announced the launch of Dealer.com Digital Website Suite, an integrated solution that brings together the essential digital website tools into a single offering for one convenient price. The Dealer.com Digital Website Suite enables customers to efficiently drive their dealership's marketing strategy with easily accessible and manageable tools for video, mobile, enhanced inventory merchandising and management, analytics and reporting.</lang>
+				<lang option="fr">2 février 2012 (Burlington, VT) - Dealer.com, le leader mondial des solutions de marketing en ligne pour l'industrie automobile, a annoncé aujourd'hui le lancement de Dealer.com numérique Site Web Suite, une solution intégrée qui rassemble les outils du site Web numériques essentielles dans une seule offre pour un prix convenable. Le Dealer.com numérique Suite de site Web permet aux clients de piloter efficacement la stratégie de commercialisation de leur concession avec des outils facilement accessibles et gérables pour la vidéo, mobile, renforcée merchandising de l'inventaire et de gestion, d'analyse et de reporting.</lang>
+				<lang option="es">02 de febrero 2012 (Burlington, VT) - Dealer.com, el líder global en soluciones de marketing en línea para la industria del automóvil, ha anunciado hoy el lanzamiento de Dealer.com Sitio web Digital Suite, de una solución integrada que reúne las herramientas esenciales web digitales en una sola oferta por un precio conveniente. El Dealer.com Digital Web Suite permite a los clientes para impulsar eficazmente la estrategia de marketing de su concesión, con herramientas fácilmente accesibles y manejables para el vídeo, móvil, mejorar la comercialización y la gestión de inventario, análisis y presentación de informes.</lang>
+				<lang option="cn">2012&#24180;2&#26376;2&#26085;&#65288;&#20271;&#28789;&#39039;&#65292;VT&#65289; - Dealer.com&#65292;&#20026;&#27773;&#36710;&#34892;&#19994;&#30340;&#32593;&#32476;&#33829;&#38144;&#35299;&#20915;&#26041;&#26696;&#30340;&#20840;&#29699;&#39046;&#23548;&#32773;&#65292;&#20170;&#22825;&#23459;&#24067;&#25512;&#20986;Dealer.com&#25968;&#30721;&#32593;&#31449;&#22871;&#25151;&#65292;&#19968;&#20010;&#38598;&#25104;&#30340;&#35299;&#20915;&#26041;&#26696;&#65292;&#27719;&#38598;&#20102;&#22522;&#26412;&#30340;&#25968;&#30721;&#32593;&#31449;&#24037;&#20855;&#19968;&#20010;&#21333;&#19968;&#30340;&#65292;&#25552;&#20379;&#19968;&#20010;&#26041;&#20415;&#30340;&#20215;&#26684;&#12290;&#35813;Dealer.com&#25968;&#30721;&#32593;&#31449;&#22871;&#20214;&#20351;&#23458;&#25143;&#33021;&#22815;&#26377;&#25928;&#22320;&#25512;&#21160;&#20854;&#32463;&#38144;&#21830;&#30340;&#33829;&#38144;&#31574;&#30053;&#65292;&#36731;&#26494;&#22320;&#35775;&#38382;&#21644;&#31649;&#29702;&#35270;&#39057;&#65292;&#31227;&#21160;&#65292;&#21152;&#24378;&#23384;&#36135;&#37319;&#36141;&#21450;&#31649;&#29702;&#65292;&#20998;&#26512;&#21644;&#25253;&#21578;&#24037;&#20855;&#12290;</lang>
+				<lang option="in">2 &#2347;&#2364;&#2352;&#2357;&#2352;&#2368; 2012 (&#2348;&#2352;&#2381;&#2354;&#2367;&#2306;&#2327;&#2335;&#2344;, &#2357;&#2368;&#2335;&#2368;) - Dealer.com, &#2350;&#2379;&#2335;&#2352; &#2357;&#2366;&#2361;&#2344; &#2313;&#2342;&#2381;&#2351;&#2379;&#2327; &#2325;&#2375; &#2354;&#2367;&#2319; &#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2357;&#2367;&#2346;&#2339;&#2344; &#2360;&#2350;&#2366;&#2343;&#2366;&#2344; &#2350;&#2375;&#2306; &#2357;&#2376;&#2358;&#2381;&#2357;&#2367;&#2325; &#2344;&#2375;&#2340;&#2366;, &#2310;&#2332; Dealer.com &#2337;&#2367;&#2332;&#2367;&#2335;&#2354; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2360;&#2369;&#2311;&#2335; &#2325;&#2375; &#2346;&#2381;&#2352;&#2325;&#2381;&#2359;&#2375;&#2346;&#2339; &#2325;&#2375; &#2360;&#2366;&#2341; &#2310;&#2357;&#2358;&#2381;&#2351;&#2325; &#2337;&#2367;&#2332;&#2367;&#2335;&#2354; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2313;&#2346;&#2325;&#2352;&#2339;&#2379;&#2306; &#2354;&#2366;&#2340;&#2366; &#2361;&#2376; &#2325;&#2367; &#2319;&#2325; &#2319;&#2325;&#2368;&#2325;&#2371;&#2340; &#2360;&#2350;&#2366;&#2343;&#2366;&#2344; &#2350;&#2375;&#2306; &#2328;&#2379;&#2359;&#2339;&#2366; &#2319;&#2325; &#2360;&#2369;&#2357;&#2367;&#2343;&#2366;&#2332;&#2344;&#2325; &#2325;&#2368;&#2350;&#2340; &#2325;&#2375; &#2354;&#2367;&#2319; &#2319;&#2325; &#2319;&#2325;&#2354; &#2346;&#2375;&#2358;&#2325;&#2358;. Dealer.com &#2337;&#2367;&#2332;&#2367;&#2335;&#2354; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2360;&#2369;&#2311;&#2335; &#2325;&#2369;&#2358;&#2354;&#2340;&#2366; &#2357;&#2368;&#2337;&#2367;&#2351;&#2379;, &#2350;&#2379;&#2348;&#2366;&#2311;&#2354;, &#2348;&#2338;&#2364;&#2366;&#2351;&#2366; &#2360;&#2370;&#2330;&#2368; &#2348;&#2367;&#2325;&#2381;&#2352;&#2368; &#2324;&#2352; &#2346;&#2381;&#2352;&#2348;&#2306;&#2343;&#2344;, &#2357;&#2367;&#2358;&#2381;&#2354;&#2375;&#2359;&#2339; &#2324;&#2352; &#2352;&#2367;&#2346;&#2379;&#2352;&#2381;&#2335;&#2367;&#2306;&#2327; &#2325;&#2375; &#2354;&#2367;&#2319; &#2310;&#2360;&#2366;&#2344;&#2368; &#2360;&#2375; &#2360;&#2369;&#2354;&#2349; &#2324;&#2352; &#2346;&#2381;&#2352;&#2348;&#2306;&#2343;&#2344;&#2368;&#2351; &#2313;&#2346;&#2325;&#2352;&#2339;&#2379;&#2306; &#2325;&#2375; &#2360;&#2366;&#2341; &#2309;&#2346;&#2344;&#2375; &#2337;&#2368;&#2354;&#2352;&#2358;&#2367;&#2346; &#2325;&#2375; &#2357;&#2367;&#2346;&#2339;&#2344; &#2352;&#2339;&#2344;&#2368;&#2340;&#2367; &#2337;&#2381;&#2352;&#2366;&#2311;&#2357; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325;&#2379;&#2306; &#2325;&#2379; &#2360;&#2325;&#2381;&#2359;&#2350; &#2348;&#2344;&#2366;&#2340;&#2366; &#2361;&#2376;.</lang>
+			</content>
+		</press-release>
+		
+		<prev-release>
+			<item>
+				<side-caption>
+					<lang option="en">January 23, 2012</lang>
+					<lang option="fr">23 janvier 2012</lang>
+					<lang option="es">23 de enero 2012</lang>
+					<lang option="cn">&#19968;&#26376;23&#65292;2012</lang>
+					<lang option="in">23 &#2332;&#2344;&#2357;&#2352;&#2368; 2012</lang>
+				</side-caption>
+				
+				<side-content>
+					<lang option="en" limit="1">
+						<![CDATA[
+							Dealer.com awarded coolest place to work in Burlington, VT. After four weeks of voting ...
+							<p>Dealer.com awarded coolest place to work in Burlington, VT. After four weeks of voting ...</p>
+							<p>Dealer.com awarded coolest place to work in Burlington, VT. After four weeks of voting ...</p>
+						]]>
+					</lang>
+					<lang option="fr">Dealer.com décerné endroit le plus cool de travailler à Burlington, VT. Après quatre semaines de vote ...</lang>
+					<lang option="es">Dealer.com otorgó lugar más bonito para trabajar en Burlington, VT. Después de cuatro semanas de votar ...</lang>
+					<lang option="cn">Dealer.com&#25480;&#20104;&#24037;&#20316;&#22312;&#20315;&#33945;&#29305;&#24030;&#20271;&#28789;&#39039;&#65292;&#26368;&#37239;&#30340;&#22320;&#26041;&#12290;&#32463;&#36807;&#22235;&#20010;&#26143;&#26399;&#30340;&#25237;&#31080;...</lang>
+					<lang option="in">Dealer.com &#2348;&#2352;&#2381;&#2354;&#2367;&#2306;&#2327;&#2335;&#2344;, &#2357;&#2368;&#2335;&#2368; &#2350;&#2375;&#2306; &#2325;&#2366;&#2350; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2360;&#2348;&#2360;&#2375; &#2309;&#2330;&#2381;&#2331;&#2375; &#2332;&#2327;&#2361; &#2360;&#2375; &#2360;&#2350;&#2381;&#2350;&#2366;&#2344;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366;. &#2350;&#2340;&#2342;&#2366;&#2344; &#2325;&#2375; &#2330;&#2366;&#2352; &#2360;&#2346;&#2381;&#2340;&#2366;&#2361; &#2325;&#2375; &#2348;&#2366;&#2342; ...</lang>
+				</side-content>
+			</item>
+			
+			<item>
+				<side-caption>
+					<lang option="en">January 01, 2012</lang>
+					<lang option="fr">1 janvier 2012</lang>
+					<lang option="es">01 de enero 2012</lang>
+					<lang option="cn">2012&#24180;1&#26376;1&#26085;</lang>
+					<lang option="in">&#2332;&#2344;&#2357;&#2352;&#2368; 1, 2012</lang>
+				</side-caption>
+				
+				<side-content>
+					<lang option="en">Dealer.com brings in new year with a bang! The month of January is always an ...</lang>
+					<lang option="fr">Dealer.com apporte dans la nouvelle année avec un bang! Le mois de Janvier est toujours une ...</lang>
+					<lang option="es">Dealer.com trae el nuevo año con una explosión! El mes de enero es siempre un ...</lang>
+					<lang option="cn">Dealer.com&#24102;&#26469;&#22312;&#26032;&#30340;&#19968;&#24180;&#65292;&#20276;&#38543;&#30528;&#19968;&#22768;&#24040;&#21709;&#65281; 1&#26376;&#20221;&#22987;&#32456;&#26159;&#19968;&#20010;...</lang>
+					<lang option="in">Dealer.com &#2319;&#2325; &#2343;&#2350;&#2366;&#2325;&#2375; &#2325;&#2375; &#2360;&#2366;&#2341; &#2344;&#2319; &#2360;&#2366;&#2354; &#2350;&#2375;&#2306; &#2354;&#2366;&#2340;&#2366; &#2361;&#2376;! &#2332;&#2344;&#2357;&#2352;&#2368; &#2325;&#2375; &#2350;&#2361;&#2368;&#2344;&#2375; &#2361;&#2350;&#2375;&#2358;&#2366; &#2319;&#2325; &#2361;&#2376; ...</lang>
+				</side-content>
+			</item>
+			
+			<item>
+				<side-caption>
+					<lang option="en">December 18, 2011</lang>
+					<lang option="fr">18 décembre 2011</lang>
+					<lang option="es">18 de diciembre 2011</lang>
+					<lang option="cn">2011&#24180;12&#26376;18&#26085;</lang>
+					<lang option="in">2011, 18 &#2342;&#2367;&#2360;&#2306;&#2348;&#2352;</lang>
+				</side-caption>
+				
+				<side-content>
+					<lang option="en">Dealer.com awarded coolest place to work in Burlington, VT. After four weeks of voting ...</lang>
+					<lang option="fr">Dealer.com décerné endroit le plus cool de travailler à Burlington, VT. Après quatre semaines de vote ...</lang>
+					<lang option="es">Dealer.com otorgó lugar más bonito para trabajar en Burlington, VT. Después de cuatro semanas de votar ...</lang>
+					<lang option="cn">Dealer.com&#25480;&#20104;&#24037;&#20316;&#22312;&#20315;&#33945;&#29305;&#24030;&#20271;&#28789;&#39039;&#65292;&#26368;&#37239;&#30340;&#22320;&#26041;&#12290;&#32463;&#36807;&#22235;&#20010;&#26143;&#26399;&#30340;&#25237;&#31080;...</lang>
+					<lang option="in">Dealer.com &#2348;&#2352;&#2381;&#2354;&#2367;&#2306;&#2327;&#2335;&#2344;, &#2357;&#2368;&#2335;&#2368; &#2350;&#2375;&#2306; &#2325;&#2366;&#2350; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2360;&#2348;&#2360;&#2375; &#2309;&#2330;&#2381;&#2331;&#2375; &#2332;&#2327;&#2361; &#2360;&#2375; &#2360;&#2350;&#2381;&#2350;&#2366;&#2344;&#2367;&#2340; &#2325;&#2367;&#2351;&#2366;. &#2350;&#2340;&#2342;&#2366;&#2344; &#2325;&#2375; &#2330;&#2366;&#2352; &#2360;&#2346;&#2381;&#2340;&#2366;&#2361; &#2325;&#2375; &#2348;&#2366;&#2342; ...</lang>
+				</side-content>
+			</item>
+		</prev-release>
+		
+		<prev-release>
+			<item>
+				<side-caption>
+					<lang option="en">2012 Archive</lang>
+					<lang option="fr">2012 Archives</lang>
+					<lang option="es">2012 Archivo</lang>
+					<lang option="cn">2012&#24180;&#23384;&#26723;</lang>
+					<lang option="in">2012 &#2346;&#2369;&#2352;&#2366;&#2354;&#2375;&#2326;</lang>
+				</side-caption>
+				
+				<side-content>
+					<lang option="en" limit="1">
+						<![CDATA[
+							<ul>
+								<li>April</li>
+								<li>March</li>
+								<li>February</li>
+								<li>January</li>
+							</ul>
+						]]>
+					</lang>
+					<lang option="fr" limit="1">
+						<![CDATA[
+							<ul>
+								<li>Avril</li>
+								<li>Mars</li>
+								<li>Février</li>
+								<li>Janvier</li>
+							</ul>
+						]]>
+					</lang>
+					<lang option="es" limit="1">
+						<![CDATA[ 
+							<ul>
+								<li>Abril</li>
+								<li>Marzo</li>
+								<li>Febrero</li>
+								<li>Enero</li>
+							</ul>
+						]]>
+					</lang>
+					<lang option="cn" limit="1">
+						<![CDATA[ 
+							<ul>
+								<li>&#22235;&#26376;</li>
+								<li>&#19977;&#26376;</li>
+								<li>&#20108;&#26376;</li>
+								<li>&#19968;&#26376;</li>
+							</ul>
+						]]>
+					</lang>
+					<lang option="in" limit="1">
+						<![CDATA[ 
+							<ul>
+								<li>&#2309;&#2346;&#2381;&#2352;&#2376;&#2354;</li>
+								<li>&#2350;&#2366;&#2352;&#2381;&#2330;</li>
+								<li>&#2347;&#2352;&#2357;&#2352;&#2368;</li>
+								<li>&#2332;&#2344;&#2357;&#2352;&#2368;</li>
+							</ul>
+						]]>
+					</lang>
+				</side-content>
+			</item>
+		</prev-release>
+		
+		<prev-release>
+			<item>
+				<side-caption>
+					<lang option="en"></lang>
+					<lang option="fr"></lang>
+					<lang option="es"></lang>
+					<lang option="cn"></lang>
+					<lang option="in"></lang>
+				</side-caption>
+				
+				<side-content>
+					<lang option="en" limit="1">
+						<![CDATA[
+							<ul>
+								<li>2011 Full Archive</li>
+								<li>2010 Full Archive</li>
+								<li>2009 Full Archive</li>
+								<li>2008 Full Archive</li>
+							</ul>
+						]]>
+					</lang>
+					<lang option="fr" limit="1">
+						<![CDATA[
+							<ul>
+								<li>2011 Archives complet</li>
+								<li>2010 Archives complet</li>
+								<li>2009 Archives complet</li>
+								<li>2008 Archives complet</li>
+							</ul>
+						]]>
+					</lang>
+					<lang option="es" limit="1">
+						<![CDATA[
+							<ul>
+								<li>2011 Archivo Completo</li>
+								<li>2010 Archivo Completo</li>
+								<li>2009 Archivo Completo</li>
+								<li>2008 Archivo Completo</li>
+							</ul>
+						]]>
+					</lang>
+					<lang option="cn" limit="1">
+						<![CDATA[
+							<ul>
+								<li>2011&#23436;&#25972;&#23384;&#26723;</li>
+								<li>2010&#23436;&#25972;&#23384;&#26723;</li>
+								<li>2009&#23436;&#25972;&#23384;&#26723;</li>
+								<li>2008&#23436;&#25972;&#23384;&#26723;</li>
+							</ul>
+						]]>
+					</lang>
+					<lang option="in" limit="1">
+						<![CDATA[
+							<ul>
+								<li>2011 &#2346;&#2370;&#2352;&#2381;&#2339; &#2346;&#2369;&#2352;&#2366;&#2354;&#2375;&#2326;</li>
+								<li>2010 &#2346;&#2370;&#2352;&#2381;&#2339; &#2346;&#2369;&#2352;&#2366;&#2354;&#2375;&#2326;</li>
+								<li>2009 &#2346;&#2370;&#2352;&#2381;&#2339; &#2346;&#2369;&#2352;&#2366;&#2354;&#2375;&#2326;</li>
+								<li>2008 &#2346;&#2370;&#2352;&#2381;&#2339; &#2346;&#2369;&#2352;&#2366;&#2354;&#2375;&#2326;</li>
+							</ul>
+						]]>
+					</lang>
+				</side-content>
+			</item>
+		</prev-release>
+	</main-content>
+	
+	<footer-area>
+		<about>
+			<footer-caption>
+				<lang option="en">Learn more about Dealer.com</lang>
+				<lang option="fr">En savoir plus sur Dealer.com</lang>
+				<lang option="es">Aprenda más acerca de Dealer.com</lang>
+				<lang option="cn">&#20102;&#35299;&#26356;&#22810;&#20851;&#20110;Dealer.com&#30340;</lang>
+				<lang option="in">Dealer.com &#2348;&#2366;&#2352;&#2375; &#2350;&#2375;&#2306; &#2324;&#2352; &#2332;&#2366;&#2344;&#2375;&#2306;</lang>
+			</footer-caption>
+			
+			<footer-content>
+				<lang option="en">Founded in Burlington, VT in 1997, Dealer.com is the leading provider of online marketing solutions to the automotive industry. Dealer.com offers award-winning SmartSites &#8482; website design incorporating dynamic video; user-friendly lead management tools; the best in search engine advertising and unparallelleled metrics and web analytics. Excellent customer service, innovative training and proven results are just a few of the reasons why more of the top 100 dealer groups use Dealer.com than any other vendor. Dealer.com's suite of online marketing solutions is the only set of tools that effectively creates a 360 view of auto dealers' online and traditional marketing investments and results. Dealers are easiily able to track spending and determine which activities are leading to the highest return on investment, allowing them to streamline advertising and marketing efforts into targeted activities that increase sales and improve the bottom line.</lang>
+				<lang option="fr">Fondée en Burlington, VT en 1997, Dealer.com est le principal fournisseur de solutions de marketing en ligne pour l'industrie automobile. Dealer.com propose ™ conception du site Web intégrant vidéo dynamique SiteGénial primés, des outils conviviaux de gestion de plomb, le meilleur de la publicité des moteurs de recherche et les mesures unparallelleled et Web Analytics. Excellent service à la clientèle, formation innovante et des résultats prouvés sont juste quelques-unes des raisons pour lesquelles plusieurs des 100 meilleurs groupes de concessionnaires utilisent Dealer.com que tout autre fournisseur. Dealer.com «suite de solutions de marketing en ligne s est le seul ensemble d'outils qui crée effectivement une vue à 360 des concessionnaires d'automobiles de la ligne et du marketing traditionnel investissements et les résultats. Les concessionnaires sont easiily capable de suivre les dépenses et déterminer les activités qui mènent au plus haut retour sur investissement, leur permettant de rationaliser publicité et de marketing efforts dans des activités ciblées que d'augmenter les ventes et d'améliorer la ligne de fond.</lang>
+				<lang option="es">Fundada en Burlington, VT en 1997, Dealer.com es el proveedor líder de soluciones de marketing en línea para la industria automotriz. Dealer.com ™ ofrece diseño de sitios web que incorpora video dinámico SmartSites premiados, fáciles de usar herramientas de gestión de plomo, lo mejor de la publicidad en buscadores y métricas unparallelleled y analítica web. Excelente servicio al cliente, formación innovadora y resultados comprobados son sólo algunas de las razones por las que más de los 100 grupos de concesionarios utilizan Dealer.com que cualquier otro proveedor. Dealer.com "suite de soluciones de marketing en línea s es el único conjunto de herramientas que efectivamente crea una vista de 360 concesionarios de automóviles" en línea y tradicionales y los resultados de las inversiones de marketing. Los distribuidores son easiily capaz de rastrear el gasto y determinar las actividades que están llevando a la mayor rentabilidad de la inversión, lo que les permite optimizar los esfuerzos de publicidad y marketing en las actividades específicas que aumentan las ventas y mejorar la línea de fondo.</lang>
+				<lang option="cn">Dealer.com&#25104;&#31435;&#20110;1997&#24180;&#65292;&#22312;&#20315;&#33945;&#29305;&#24030;&#20271;&#28789;&#39039;&#65292;&#26159;&#27773;&#36710;&#34892;&#19994;&#30340;&#32593;&#32476;&#33829;&#38144;&#35299;&#20915;&#26041;&#26696;&#30340;&#39046;&#20808;&#20379;&#24212;&#21830;&#12290; Dealer.com&#30340;&#25552;&#20379;&#33719;&#22870;SmartSites&#8482;&#32593;&#31449;&#35774;&#35745;&#65292;&#23558;&#21160;&#24577;&#35270;&#39057;&#29992;&#25143;&#21451;&#22909;&#30340;&#38085;&#31649;&#29702;&#24037;&#20855;&#65292;&#26368;&#22909;&#30340;&#25628;&#32034;&#24341;&#25806;&#24191;&#21578;&#21644;unparallelleled&#30340;&#24230;&#37327;&#21644;&#32593;&#32476;&#20998;&#26512;&#12290;&#20248;&#31168;&#30340;&#23458;&#25143;&#26381;&#21153;&#65292;&#21019;&#26032;&#30340;&#22521;&#35757;&#21644;&#39564;&#35777;&#30340;&#32467;&#26524;&#20165;&#20165;&#26159;&#20960;&#20010;&#20026;&#20160;&#20040;&#36234;&#26469;&#36234;&#22810;&#30340;&#21069;100&#21517;&#32463;&#38144;&#21830;&#38598;&#22242;&#20351;&#29992;Dealer.com&#30340;&#27604;&#20219;&#20309;&#20854;&#20182;&#20379;&#24212;&#21830;&#30340;&#21407;&#22240;&#12290; Dealer.com&#22312;&#32447;&#33829;&#38144;&#35299;&#20915;&#26041;&#26696;&#22871;&#20214;&#26159;&#21807;&#19968;&#19968;&#22871;&#24037;&#20855;&#65292;&#26377;&#25928;&#22320;&#21019;&#24314;&#19968;&#20010;360&#37492;&#20110;&#27773;&#36710;&#32463;&#38144;&#21830;&#32593;&#19978;&#21450;&#20256;&#32479;&#30340;&#33829;&#38144;&#25237;&#36164;&#21644;&#32467;&#26524;&#12290;&#32463;&#38144;&#21830;easiily&#33021;&#22815;&#36319;&#36394;&#25903;&#20986;&#65292;&#24182;&#30830;&#23450;&#21738;&#20123;&#27963;&#21160;&#26159;&#23548;&#33268;&#25237;&#36164;&#22238;&#25253;&#29575;&#26368;&#39640;&#30340;&#65292;&#35753;&#23427;&#20204;&#31616;&#21270;&#25104;&#26377;&#38024;&#23545;&#24615;&#30340;&#27963;&#21160;&#65292;&#22686;&#21152;&#38144;&#21806;&#24191;&#21578;&#21644;&#33829;&#38144;&#21147;&#24230;&#21644;&#25552;&#39640;&#24213;&#32447;&#12290;</lang>
+				<lang option="in">1997 &#2350;&#2375;&#2306; &#2348;&#2352;&#2381;&#2354;&#2367;&#2306;&#2327;&#2335;&#2344;, &#2357;&#2368;&#2335;&#2368; &#2350;&#2375;&#2306; &#2360;&#2381;&#2341;&#2366;&#2346;&#2367;&#2340;, Dealer.com &#2350;&#2379;&#2335;&#2352; &#2357;&#2366;&#2361;&#2344; &#2313;&#2342;&#2381;&#2351;&#2379;&#2327; &#2325;&#2375; &#2354;&#2367;&#2319; &#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2357;&#2367;&#2346;&#2339;&#2344; &#2360;&#2350;&#2366;&#2343;&#2366;&#2344; &#2325;&#2375; &#2309;&#2327;&#2381;&#2352;&#2339;&#2368; &#2346;&#2381;&#2352;&#2342;&#2366;&#2340;&#2366; &#2361;&#2376;. &#2313;&#2346;&#2351;&#2379;&#2327;&#2325;&#2352;&#2381;&#2340;&#2366; &#2325;&#2375; &#2309;&#2344;&#2369;&#2325;&#2370;&#2354; &#2344;&#2375;&#2340;&#2371;&#2340;&#2381;&#2357; &#2346;&#2381;&#2352;&#2348;&#2306;&#2343;&#2344; &#2313;&#2346;&#2325;&#2352;&#2339;, &#2326;&#2379;&#2332; &#2311;&#2306;&#2332;&#2344; &#2357;&#2367;&#2332;&#2381;&#2334;&#2366;&#2346;&#2344; &#2324;&#2352; unparallelleled &#2350;&#2376;&#2335;&#2381;&#2352;&#2367;&#2325;&#2381;&#2360; &#2324;&#2352; &#2357;&#2375;&#2348; &#2357;&#2367;&#2358;&#2381;&#2354;&#2375;&#2359;&#2339; &#2350;&#2375;&#2306; &#2360;&#2348;&#2360;&#2375; &#2309;&#2330;&#2381;&#2331;&#2366; Dealer.com &#2346;&#2369;&#2352;&#2360;&#2381;&#2325;&#2366;&#2352; &#2357;&#2367;&#2332;&#2375;&#2340;&#2366; SmartSites &#2327;&#2340;&#2367;&#2358;&#2368;&#2354; &#2357;&#2368;&#2337;&#2367;&#2351;&#2379; &#2358;&#2366;&#2350;&#2367;&#2354; &#8482; &#2357;&#2375;&#2348;&#2360;&#2366;&#2311;&#2335; &#2337;&#2367;&#2332;&#2366;&#2311;&#2344; &#2346;&#2381;&#2352;&#2342;&#2366;&#2344; &#2325;&#2352;&#2340;&#2366; &#2361;&#2376;. &#2313;&#2340;&#2381;&#2325;&#2371;&#2359;&#2381;&#2335; &#2327;&#2381;&#2352;&#2366;&#2361;&#2325; &#2360;&#2375;&#2357;&#2366;, &#2309;&#2349;&#2367;&#2344;&#2357; &#2346;&#2381;&#2352;&#2358;&#2367;&#2325;&#2381;&#2359;&#2339; &#2324;&#2352; &#2360;&#2367;&#2342;&#2381;&#2343; &#2346;&#2352;&#2367;&#2339;&#2366;&#2350; &#2325;&#2381;&#2351;&#2379;&#2306; &#2358;&#2368;&#2352;&#2381;&#2359; 100 &#2357;&#2381;&#2351;&#2366;&#2346;&#2366;&#2352;&#2368; &#2360;&#2350;&#2370;&#2361;&#2379;&#2306; &#2325;&#2375; &#2309;&#2343;&#2367;&#2325; &#2325;&#2367;&#2360;&#2368; &#2349;&#2368; &#2309;&#2344;&#2381;&#2351; &#2357;&#2367;&#2325;&#2381;&#2352;&#2375;&#2340;&#2366; &#2360;&#2375; Dealer.com &#2313;&#2346;&#2351;&#2379;&#2327; &#2325;&#2366;&#2352;&#2339;&#2379;&#2306; &#2325;&#2375; &#2325;&#2369;&#2331; &#2361;&#2368; &#2352;&#2361;&#2375; &#2361;&#2376;&#2306;. Dealer.com &#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2324;&#2352; &#2346;&#2366;&#2352;&#2306;&#2346;&#2352;&#2367;&#2325; &#2357;&#2367;&#2346;&#2339;&#2344; &#2344;&#2367;&#2357;&#2375;&#2358; &#2324;&#2352; &#2346;&#2352;&#2367;&#2339;&#2366;&#2350; '&#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2357;&#2367;&#2346;&#2339;&#2344; &#2360;&#2350;&#2366;&#2343;&#2366;&#2344; &#2325;&#2375; &#2360;&#2370;&#2335; &#2325;&#2379; &#2346;&#2381;&#2352;&#2349;&#2366;&#2357;&#2368; &#2338;&#2306;&#2327; &#2360;&#2375; &#2321;&#2335;&#2379; &#2337;&#2368;&#2354;&#2352;&#2379;&#2306; &#2325;&#2368; &#2319;&#2325; 360 &#2342;&#2371;&#2358;&#2381;&#2351; &#2348;&#2344;&#2366;&#2340;&#2366; &#2361;&#2376; &#2325;&#2367; &#2313;&#2346;&#2325;&#2352;&#2339;&#2379;&#2306; &#2325;&#2368; &#2325;&#2375;&#2357;&#2354; &#2360;&#2375;&#2335; &#2361;&#2376;'. &#2357;&#2381;&#2351;&#2366;&#2346;&#2366;&#2352;&#2367;&#2351;&#2379;&#2306; easiily &#2326;&#2352;&#2381;&#2330; &#2325;&#2379; &#2335;&#2381;&#2352;&#2376;&#2325; &#2324;&#2352; &#2327;&#2340;&#2367;&#2357;&#2367;&#2343;&#2367;&#2351;&#2379;&#2306; &#2332;&#2379; &#2313;&#2344;&#2381;&#2361;&#2375;&#2306; &#2348;&#2367;&#2325;&#2381;&#2352;&#2368; &#2348;&#2338;&#2364;&#2366;&#2344;&#2375; &#2325;&#2367; &#2354;&#2325;&#2381;&#2359;&#2367;&#2340; &#2327;&#2340;&#2367;&#2357;&#2367;&#2343;&#2367;&#2351;&#2379;&#2306; &#2350;&#2375;&#2306; &#2357;&#2367;&#2332;&#2381;&#2334;&#2366;&#2346;&#2344; &#2324;&#2352; &#2357;&#2367;&#2346;&#2339;&#2344; &#2346;&#2381;&#2352;&#2351;&#2366;&#2360;&#2379;&#2306; &#2325;&#2379; &#2325;&#2366;&#2352;&#2327;&#2352; &#2348;&#2344;&#2366;&#2344;&#2375; &#2324;&#2352; &#2344;&#2368;&#2330;&#2375; &#2346;&#2306;&#2325;&#2381;&#2340;&#2367; &#2350;&#2375;&#2306; &#2360;&#2369;&#2343;&#2366;&#2352; &#2325;&#2352;&#2344;&#2375; &#2325;&#2375; &#2354;&#2367;&#2319; &#2309;&#2344;&#2369;&#2350;&#2340;&#2367; &#2342;&#2375;&#2340;&#2366; &#2361;&#2376;, &#2344;&#2367;&#2357;&#2375;&#2358; &#2346;&#2352; &#2360;&#2348;&#2360;&#2375; &#2332;&#2381;&#2351;&#2366;&#2342;&#2366; &#2354;&#2366;&#2349; &#2325;&#2375; &#2354;&#2367;&#2319; &#2344;&#2375;&#2340;&#2371;&#2340;&#2381;&#2357; &#2325;&#2352; &#2352;&#2361;&#2375; &#2361;&#2376;&#2306; &#2344;&#2367;&#2352;&#2381;&#2343;&#2366;&#2352;&#2367;&#2340; &#2325;&#2352;&#2344;&#2375; &#2350;&#2375;&#2306; &#2360;&#2325;&#2381;&#2359;&#2350; &#2361;&#2376;&#2306;.</lang>
+			</footer-content>
+		</about>
+		
+		<contact>
+			<footer-caption>
+				<lang option="en">Contact Sales</lang>
+				<lang option="fr">Contacter le service commercial</lang>
+				<lang option="es">Póngase en contacto con Ventas</lang>
+				<lang option="cn">&#32852;&#31995;&#38144;&#21806;</lang>
+				<lang option="in">&#2348;&#2367;&#2325;&#2381;&#2352;&#2368; &#2360;&#2306;&#2346;&#2352;&#2381;&#2325; &#2325;&#2352;&#2375;&#2306;</lang>
+			</footer-caption>
+			
+			<footer-content>
+				<lang option="en">Please fill out the form below and a sales representative will contact you.</lang>
+				<lang option="fr">Veuillez remplir le formulaire ci-dessous et un représentant des ventes vous contactera.</lang>
+				<lang option="es">Por favor rellene el siguiente formulario y un representante de ventas se comunicará con usted.</lang>
+				<lang option="cn">&#35831;&#22635;&#20889;&#19979;&#38754;&#30340;&#34920;&#26684;&#65292;&#38144;&#21806;&#20195;&#34920;&#23558;&#19982;&#24744;&#32852;&#31995;&#12290;</lang>
+				<lang option="in">&#2344;&#2368;&#2330;&#2375; &#2342;&#2367;&#2319; &#2327;&#2319; &#2347;&#2377;&#2352;&#2381;&#2350; &#2349;&#2352;&#2375;&#2306; &#2324;&#2352; &#2319;&#2325; &#2348;&#2367;&#2325;&#2381;&#2352;&#2368; &#2346;&#2381;&#2352;&#2340;&#2367;&#2344;&#2367;&#2343;&#2367; &#2310;&#2346;&#2360;&#2375; &#2360;&#2306;&#2346;&#2352;&#2381;&#2325; &#2325;&#2352;&#2375;&#2306;&#2327;&#2375;.</lang>
+			</footer-content>
+		</contact>
+	</footer-area>
+
+	<errors>
+		<fullname>
+			<valid>
+				<lang option="en">Please enter a valid name</lang>
+				<lang option="fr">S'il vous plaît entrer un nom valide</lang>
+				<lang option="es">Por favor ingrese un nombre válido</lang>
+				<lang option="cn">&#35831;&#36755;&#20837;&#19968;&#20010;&#26377;&#25928;&#30340;&#21517;&#31216;</lang>
+				<lang option="in">&#2319;&#2325; &#2350;&#2366;&#2344;&#2381;&#2351; &#2344;&#2366;&#2350; &#2342;&#2352;&#2381;&#2332; &#2325;&#2352;&#2375;&#2306;</lang>
+			</valid>
+			
+			<empty>
+				<lang option="en">You cannot be anonymous. Please enter a name.</lang>
+				<lang option="fr">Vous ne pouvez pas être anonyme. S'il vous plaît entrer un nom.</lang>
+				<lang option="es">No puede ser anónima. Por favor ingrese el nombre.</lang>
+				<lang option="cn">&#20320;&#19981;&#33021;&#26159;&#21311;&#21517;&#30340;&#12290;&#35831;&#36755;&#20837;&#19968;&#20010;&#21517;&#31216;&#12290;</lang>
+				<lang option="in">&#2310;&#2346; &#2327;&#2369;&#2350;&#2344;&#2366;&#2350; &#2344;&#2361;&#2368;&#2306; &#2325;&#2367;&#2351;&#2366; &#2332;&#2366; &#2360;&#2325;&#2340;&#2366;. &#2319;&#2325; &#2344;&#2366;&#2350; &#2342;&#2352;&#2381;&#2332; &#2325;&#2352;&#2375;&#2306;.</lang>
+			</empty>
+		</fullname>
+		
+		<phone>
+			<valid>
+				<lang option="en">Please enter a valid phone number</lang>
+				<lang option="fr">S'il vous plaît entrer un numéro de téléphone valide</lang>
+				<lang option="es">Por favor, introduzca un número de teléfono válido</lang>
+				<lang option="cn">&#35831;&#36755;&#20837;&#19968;&#20010;&#26377;&#25928;&#30340;&#30005;&#35805;&#21495;&#30721;</lang>
+				<lang option="in">&#2319;&#2325; &#2357;&#2376;&#2343; &#2347;&#2364;&#2379;&#2344; &#2344;&#2306;&#2348;&#2352; &#2342;&#2352;&#2381;&#2332; &#2325;&#2352;&#2375;&#2306;</lang>
+			</valid>
+			
+			<empty>
+				<lang option="en">Your phone number cannot be empty</lang>
+				<lang option="fr">Votre numéro de téléphone ne peut pas être vide</lang>
+				<lang option="es">Su número de teléfono no puede estar vacío</lang>
+				<lang option="cn">&#24744;&#30340;&#25163;&#26426;&#21495;&#30721;&#19981;&#33021;&#20026;&#31354;</lang>
+				<lang option="in">&#2310;&#2346;&#2325;&#2366; &#2347;&#2364;&#2379;&#2344; &#2344;&#2306;&#2348;&#2352; &#2326;&#2366;&#2354;&#2368; &#2344;&#2361;&#2368;&#2306; &#2361;&#2379; &#2360;&#2325;&#2340;&#2366;</lang>
+			</empty>
+		</phone>
+		
+		<email>
+			<valid>
+				<lang option="en">Please enter a valid email address</lang>
+				<lang option="fr">S'il vous plaît entrer une adresse email valide</lang>
+				<lang option="es">Por favor, introduzca una dirección e-mail válida</lang>
+				<lang option="cn">&#35831;&#36755;&#20837;&#19968;&#20010;&#26377;&#25928;&#30340;&#30005;&#23376;&#37038;&#20214;&#22320;&#22336;</lang>
+				<lang option="in">&#2319;&#2325; &#2350;&#2366;&#2344;&#2381;&#2351; &#2312;&#2350;&#2375;&#2354; &#2346;&#2340;&#2366; &#2342;&#2352;&#2381;&#2332; &#2325;&#2352;&#2375;&#2306;</lang>
+			</valid>
+			
+			<empty>
+				<lang option="en">Your email address cannot be empty</lang>
+				<lang option="fr">Votre adresse de messagerie ne peut pas être vide</lang>
+				<lang option="es">Su dirección de correo electrónico no puede estar vacío</lang>
+				<lang option="cn">&#24744;&#30340;&#30005;&#23376;&#37038;&#20214;&#22320;&#22336;&#19981;&#33021;&#20026;&#31354;</lang>
+				<lang option="in">&#2310;&#2346;&#2325;&#2366; &#2312;&#2350;&#2375;&#2354; &#2346;&#2340;&#2366; &#2326;&#2366;&#2354;&#2368; &#2344;&#2361;&#2368;&#2306; &#2361;&#2379; &#2360;&#2325;&#2340;&#2366;</lang>
+			</empty>
+		</email>
+		
+		<comments>
+			<valid min="12" max="500">
+				<lang option="en">Your comments must be between <min></min> and <max></max> characters</lang>
+				<lang option="fr">Vos commentaires doivent être compris entre <min></min> et <max></max> caractères</lang>
+				<lang option="es">Sus comentarios deben tener entre <min></min> y <max></max> caracteres</lang>
+				<lang option="cn">&#20320;&#30340;&#24847;&#35265;&#24517;&#39035;&#20026;<min></min>&#33267;<max></max>&#20010;&#23383;&#31526;</lang>
+				<lang option="in">&#2310;&#2346;&#2325;&#2368; &#2335;&#2367;&#2346;&#2381;&#2346;&#2339;&#2368; &#2325;&#2375; &#2348;&#2368;&#2330; <min></min> &#2324;&#2352; <max></max> &#2309;&#2325;&#2381;&#2359;&#2352;&#2379;&#2306; &#2325;&#2366; &#2361;&#2379;&#2344;&#2366; &#2330;&#2366;&#2361;&#2367;&#2319;</lang>
+			</valid>
+			
+			<empty>
+				<lang option="en">Your comments cannot be empty</lang>
+				<lang option="fr">Vos commentaires peuvent pas être vide</lang>
+				<lang option="es">Sus comentarios no pueden estar vacíos</lang>
+				<lang option="cn">&#24744;&#30340;&#24847;&#35265;&#19981;&#33021;&#20026;&#31354;</lang>
+				<lang option="in">&#2310;&#2346;&#2325;&#2368; &#2335;&#2367;&#2346;&#2381;&#2346;&#2339;&#2368; &#2326;&#2366;&#2354;&#2368; &#2344;&#2361;&#2368;&#2306; &#2361;&#2379; &#2360;&#2325;&#2340;&#2366;</lang>
+			</empty>
+		</comments>
+	</errors>
+</contents>

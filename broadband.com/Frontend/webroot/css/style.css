@@ -1,0 +1,127 @@
+/**
+	Developer: Satish Sekar
+	Assessment: Front End Developer
+	Client: BroadBand TV
+	Description: Display live twitter feed using public API (Deprecated as of March 2013)
+	Update: OAuth signature is required as part of the functionality. AJAX call is made to authentication the app and then return JSON response array.
+	Page: Custom stylesheet (style.css)
+**/
+
+body, article#tweets { 
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	border: 0;
+}
+
+article#tweets, h2 { 
+	text-align: center;
+}
+
+article#tweets > div > header { 
+	font-weight: bold;
+	font-size: 18px;
+	padding: 5px;
+	background: #333333;
+	color: #FEFEFE;
+}
+
+article#tweets > div { 
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: 1px solid #999999;
+	border-right: 1px solid #999999;
+}
+
+article#tweets > div > section { 
+	background: #CCCCCC;
+}
+
+form { 
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: center;
+}
+
+form > section { 
+	display: inline-block;
+	margin-right: 18px;
+}
+
+form > section:last-child { 
+	margin-right: 0px !important;
+}
+
+form input[type=submit] { 
+	background: #990000;
+	color: #FEFEFE;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 8px;
+	padding-right: 8px;
+	outline: 0;
+	cursor: pointer;
+	border: 1px solid #999999;
+}
+
+ul#feeds { 
+	margin: 0;
+	border: 0;
+	padding: 0;
+	background: #FFFFFF;
+}
+
+ul#feeds > div { 
+	padding: 5px;
+}
+
+ul#feeds > li { 
+	display: block;
+	clear: both;
+	margin: 0;
+	text-decoration: none;
+}
+
+ul#feeds > li { 
+	border-top: 1px solid #999999;
+}
+
+ul#feeds > li > section { 
+	float: left;
+}
+
+ul#feeds > li > section:first-child  > div { 
+	line-height: 36px;
+	border-right: 1px solid #999999;
+	width: 48px;
+	height: 48px;
+}
+ul#feeds > li > section:last-child > div:first-child{ 
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 4px;
+	padding-left: 10px;
+	color: #333333;
+	height: 14px;
+}
+ul#feeds > li > section:last-child > div:last-child { 
+	line-height: 18px;
+	font-size: 12px;
+	padding-top: 4px;
+	padding-left: 10px;
+	padding-bottom: 2px;
+	text-align: left;
+	color: #999999;
+	width: 610px;
+}
+
+article#tweets > div > footer { 
+	clear: both;
+	padding: 5px;
+	background: #333333;
+	color: #FEFEFE;
+	font-style: italic;
+	font-size: 12px;
+}

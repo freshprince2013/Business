@@ -1,0 +1,525 @@
+/****************************************
+	Name: Satish Sekar
+	Web App: Single Page Application (SPA)
+	Client: Dealer.com
+****************************************/
+
+body, body > article > header, body > article > section, body > article > footer { 
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	clear: both;
+}
+
+body > article { 
+	margin-left: auto;
+	margin-right: auto;
+	border-left: #eeeeee;
+	border-right: #eeeeee;
+	background-color: #eeeeee;
+	width: 740px;
+}
+
+header { 
+	font-size: 12px;
+	color: #e8e8e8;
+}
+
+header > nav.top { 
+	background-color: #101010;
+	background: -webkit-gradient(linear, 0%, 0%, 0%, 100%, from(#2e2e2e), to(#101010));
+	background: -webkit-linear-gradient(top, #2e2e2e, #101010);
+	background: -moz-linear-gradient(top, #2e2e2e, #101010);
+	background: -ms-linear-gradient(top, #2e2e2e, #101010);
+	background: -o-linear-gradient(top, #2e2e2e, #101010);
+	background-repeat: repeat-x;
+	height: 36px;
+	clear: both;
+}
+
+header > nav.top > div.left { 
+	float: left;
+	width: 520px;
+}
+
+header > nav.top > div.right { 
+	float: right;
+	width: 190px;
+}
+
+header > nav.top > div > ul , header > nav.top > div > ul > li { 
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+header > nav.top > div.left > ul  > li { 
+	float: left;
+	text-align: center;
+	border-right: 1px solid #e8e8e8;
+	line-height: 36px;
+	width: 84px;
+	height: 36px;
+}
+
+header > nav.top > div.left > ul  > li.exception { 
+	line-height: 24px !important;
+	width: 125px !important;
+}
+
+header > nav.top > div.left > ul > li > a, header > nav.top > div.left > ul > li > a:link, header > nav.top > div.left > ul > li > a:visited, header > nav.top > div.left > ul > li > a:hover, header > nav.top > div.left > ul > li > a:active { 
+	text-decoration: none;
+	outline: none;
+	color: #e8e8e8;
+}
+
+header > nav.top > div.left > ul > li:hover { 
+	background-image: url("../img/image.png");
+	background-position: -12px 0px;
+	height: 36px;
+}
+
+header > nav.top > div.left > ul > li.exception:hover { 
+	background-image: none !important;
+}
+
+header > nav.top > div.right > ul > li { 
+	float: left;
+	text-align: left;
+	line-height: 36px;
+	width: 190px;
+}
+
+header > div.bottom { 
+	margin: 0px;
+	padding: 0px;
+	background-image: url("../img/image-2.png");
+	background-repeat: repeat-x;
+	height: 107px;
+	clear: both;
+}
+
+header > div.bottom > a { 
+	outline: none;
+	text-decoration: none;
+}
+
+header > div.bottom > a > div.logo { 
+	background-image: url("../img/image.png");
+	background-position: 0px -68px;
+	position: relative;
+	top: 32px;
+	left: 24px;
+	width: 360px;
+	height: 39px;
+}
+
+section#main-content { 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section#main-content > section.left { 
+	float: left;
+	width: 480px;
+}
+
+section#main-content > section.left > div.press-release { 
+	border-bottom: 1px solid #999999;
+	margin: 32px;
+	clear: both;
+}
+
+section#main-content > section.left > div.press-release:last-child { 
+	border-bottom: none !important;
+}
+
+section#main-content > section.left > div.press-release > div.caption{ 
+	font-size: 22px;
+	margin-bottom: 8px;
+}
+
+section#main-content > section.left > div.press-release > div.content{ 
+	font-size: 14px;
+	color: #333333;
+	margin-bottom: 32px;
+}
+
+div.readmore > a { 
+	color: orange;
+	text-decoration: none;
+	outline: none;
+}
+
+div.readmore > a:hover { 
+	text-decoration: underline;
+}
+
+.hide { 
+	display: none;
+}
+.show { 
+	display: block;
+}
+
+section#main-content > aside.right { 
+	float: right;
+	width: 240px;
+}
+
+section#main-content > aside.right > div.prev-release { 
+	margin-top: 32px;
+	margin-bottom: 32px;
+}
+
+section#main-content > aside.right > div.prev-release > header > div { 
+	color: #666666;
+	font-weight: bold;
+	font-size: 15px;
+	margin-bottom: 8px;
+}
+
+section#main-content > aside.right > div.prev-release > section { 
+	font-size: 12px;
+	margin-bottom: 8px;
+}
+
+section#main-content > aside.right > div.prev-release > section > div.side-caption { 
+	color: #666666;
+	font-weight: bold;
+}
+
+section#main-content > aside.right > div.prev-release > section > div.side-exception { 
+	color: #222222;
+	font-size: 14px;
+}
+
+section#main-content > aside.right > div.prev-release > section > div.side-content { 
+	font-style: italic;
+}
+
+section#main-content > aside.right > div.prev-release > section > div.side-content > ul, section#main-content > aside.right > div.prev-release > section > div.side-content > ul > li { 
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+section#main-content > aside.right > div.prev-release > section > div.side-content > ul > li { 
+	font-style: normal;
+	background-image: url("../img/image-2.png");
+	background-repeat: no-repeat;
+	background-position: 0px -108px;
+	padding-left: 8px;
+	height: 16px;
+}
+
+footer { 
+	background-color: #101010;
+	color: #aaaaaa;
+	font-size: 11px;
+}
+
+footer > section.left { 
+	float: left;
+	width: 450px;
+	margin-top: 32px;
+	margin-left: 32px;
+	margin-bottom: 32px;
+	margin-right: 16px !important;
+}
+
+form#form1 > section { 
+	display: block;
+	clear: both;
+	margin-bottom: 7px;
+}
+
+form#form1 > section > div.label { 
+	float: left;
+	font-size: 11px;
+	font-weight: bold;
+	color: #e8e8e8;
+	text-shadow: 1px 1px #333333;
+	line-height: 24px;
+	width: 64px;
+}
+
+textarea { 
+	resize: none;
+}
+
+input[type=text] { 
+	outline: none;
+	border: none;
+}
+
+form#form1 > section > div.input { 
+	float: left;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	background: #FFFFFF;
+	border: 1px solid #333333;
+	width: 160px;
+	margin-bottom: 5px;
+}
+
+form#form1 > section:last-child { 
+	text-align: right;
+	margin-top: 6px;
+	margin-right: 21px;
+}
+
+input[type=submit], button { 
+	width: 135px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	color: #e8e8e8;
+	height: 28px;
+	background: #333333;
+}
+
+button.submit { 
+	width: 85px !important;
+	background: #333333 !important;
+	color: #e8e8e8 !important;
+}
+
+button.cancel { 
+	width: 85px !important;
+	background: #e8e8e8 !important;
+	color: #333333 !important;
+}
+
+div.footer-caption { 
+	font-size: 14px;
+	font-weight: bold;
+	color: #e8e8e8;
+	text-shadow: 1px 1px #333333;
+	margin-bottom: 7px;
+}
+
+div.footer-content { 
+	margin-bottom: 7px;
+}
+
+section.opacity { 
+	visibility: visible !important;
+	opacity: 1 !important;
+}
+
+section.middle { 
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.5);
+	z-index: 99999;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	-khtml-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	visibility: hidden;
+	opacity: 0;
+}
+
+section.middle > div.mdialog { 
+	position: relative;
+	margin: 15% auto;
+	border: 12px solid rgba(155, 155, 155, 0.5);
+	background-clip: border-box;
+	-moz-background-clip: border;
+	-webkit-background-clip: border;
+	-khtml-background-clip: border;
+	background-clip: padding-box;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding;
+	-khtml-background-clip: padding;
+	background-clip: content-box;
+	-moz-background-clip: content;
+	-webkit-background-clip: content;
+	-khtml-background-clip: content;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	width: 326px;
+	height: 185px;
+}
+
+section.middle > div.mdialog > div.left { 
+	float: left;
+	width: 115px;
+	background: #eeeeee;
+	color: #333333;
+	border-right: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+}
+
+section.middle > div.mdialog > div.left > div.icon { 
+	width: 115px;
+	height: 115px;
+}
+
+section.middle > div.mdialog > div.left > div.caption { 
+	font-size: 15px;
+	line-height: 72px;
+	border-top: 1px solid #999999;
+	padding-left: 3px;
+	background-color: darkblue;
+	color: #eeeeee;
+	width: 115px;
+	height: 70px;
+}
+
+section.middle > div.mdialog > div.right { 
+	float: right;
+	width: 210px;
+}
+
+section.middle > div.mdialog > div.right > div.title { 
+	font-size: 18px;
+	background-color: #333333;
+	color: #eeeeee;
+	padding: 8px;
+	text-align: center;
+	border-bottom: 1px solid #eeeeee;
+}
+
+section.middle > div.mdialog > div.right > div.title > a, section.middle > div.mdialog > div.right > div.title > a:link, section.middle > div.mdialog > div.right > div.title > a:visited, section.middle > div.mdialog > div.right > div.title > a:active , section.middle > div.mdialog > div.right > div.title > a:hover { 
+	text-decoration: none;
+	background-color: #333333;
+	color: #eeeeee;
+}
+
+section.middle > div.mdialog > div.right > div.title > a:hover > span.close { 
+	background-color: #eeeeee;
+	color: #333333;
+}
+
+section.middle > div.mdialog > div.right > div.title > a > span.close { 
+	border-left: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+	background-color: #333333;
+	text-align: center;
+	font-size: 11px;
+	color: #eeeeee;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 15px;
+	height: 15px;
+}
+
+section.middle > div.mdialog > div.right > div.description { 
+	font-size: 14px;
+	background-color: #eeeeee;
+	color: #333333;
+	border-bottom: 1px solid #999999;
+}
+
+section.middle > div.mdialog > div.right > div.description > div:first-child { 
+	height: 95px;
+	padding: 5px;
+}
+
+section.middle > div.mdialog > div.right > div.description > div:last-child { 
+	height: 33px;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+section.middle > div.mdialog > div.left > div.icon { 
+	background-image: url("../img/image-3.png");
+	background-repeat: norepeat;
+	width: 115px;
+}
+
+section.middle > div.mdialog > div.left > div.subscribe { 
+	background-position: 0px 0px;
+}
+
+section.middle > div.mdialog > div.left > div.linkedin { 
+	background-position: -115px 0px;
+}
+
+section.middle > div.mdialog > div.left > div.twitter { 
+	background-position: -230px 0px;
+}
+
+section.middle > div.mdialog > div.left > div.facebook { 
+	background-position: -345px 0px;
+}
+
+footer > section.left > div.social-media { 
+	color: #e8e8e8;
+	font-size: 14px;
+}
+
+footer > section.left > div.social-media > section > a, footer > section.left > div.social-media > section > a:visited, footer > section.left > div.social-media > section > a:active, footer > section.left > div.social-media > section > a:link { 
+	text-decoration: none;
+	outline: none;
+	color: #e8e8e8;
+}
+
+footer > section.left > div.social-media > section > a :hover, footer > section.left > div.social-media > section:hover > a { 
+	color: orange;
+}
+
+footer > section.left > div.social-media > section > a > span.icon { 
+	background-image: url("../img/image.png");
+	background-repeat: no-repeat;
+	display: block;
+	width: 42px;
+	height: 40px;
+}
+
+footer > section.left > div.social-media > section > a > span.linkedin { 
+	background-position: -140px 0px;
+}
+
+footer > section.left > div.social-media > section > a > span.facebook { 
+	background-position: -223px 0px;
+}
+
+footer > section.left > div.social-media > section > a > span.twitter { 
+	background-position: -181px 0px;
+}
+
+footer > section.left > div.social-media > section > a > span.subscribe { 
+	background-position: -99px 0px;
+}
+
+footer > section.left > div.social-media > section { 
+	float: left;
+	width: 85px;
+}
+
+footer > section.right { 
+	float: right;
+	width: 240px;
+	margin-top: 32px;
+}
+
+footer > section.bottom { 
+	clear: both;
+	display: block;
+	width: auto;
+	border-top: 1px solid #e8e8e8;
+	padding: 7px;
+	text-align: center;
+}
+
+.error { 
+	border: 1px solid red !important;
+}
+
+.errorMsg { 
+	color: red;
+}

@@ -1,0 +1,70 @@
+<!--
+	Developer: Satish Sekar
+	Assessment: Front End Developer
+	Client: BroadBand TV
+	Description: Display live twitter feed using public API (Deprecated as of March 2013)
+	Update: OAuth signature is required as part of the functionality. AJAX call is made to authentication the app and then return JSON response array.
+	Page: Main page/Twitter UI
+-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Display twitter feeds by hashtags</title>	
+	</head>
+	
+	<!-- List of custom CSS Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="webroot/css/style.css">
+	
+	<!-- List of required JS APIs -->
+	<script type="text/javascript" language="javascript" src="webroot/js/underscore-min.js"></script>
+	<script type="text/javascript" language="javascript" src="webroot/js/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" language="javascript" src="webroot/js/backbone-min.js"></script>
+	
+	<!-- List of custom JS files -->
+	<script type="text/javascript" language="javascript" src="webroot/js/tweets.js"></script>
+	<script type="text/template" id="tweet-template">
+			<section>
+				<div><img src="<%= profileImg %>" /></div>
+			</section>
+			<section>
+				<div><%= name %></div>
+				<div><%= text %></div>
+			</section>
+	</script>
+	
+	<body>
+		<article id="tweets">
+			<div>
+				<header>
+					<div>List of twitter feeds by hashtag</div>
+				</header>
+				<section>
+					<form id="form1">
+						<section>
+							<label>Rows</label>
+							<select>
+								<option val="10">10</option>
+								<option val="25">25</option>
+								<option val="50">50</option>
+								<option val="75">75</option>
+								<option val="100">100</option>
+							</select>
+						</section>
+						<section>
+							<label>Search</label>
+							<input type="text" name="search" />
+						</section>
+						<section>
+							<input type="submit" value="Search" />
+						</section>
+					</form>
+					<ul id="feeds"></ul>
+				</section>
+				<footer>
+					<div>Copyright &copy; by Satish Sekar</div>
+				</footer>
+			</div>
+		</article>
+	</body>
+</html>
