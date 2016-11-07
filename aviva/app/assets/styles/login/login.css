@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'Xiomara';
+    src: url('app/assets/fonts/xiomara/xiomara.eot'); /* IE9 Compat Modes */
+    src: url('app/assets/fonts/xiomara/xiomara.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('app/assets/fonts/xiomara/xiomara.woff') format('woff'), /* Pretty Modern Browsers */
+    url('app/assets/fonts/xiomara/xiomara.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('app/assets/fonts/xiomara/xiomara.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+#login {
+    background: transparent url("app/assets/images/tile1.jpg") 0px 0px repeat;
+    width: 100%;
+    height: 100%;
+}
+
+.clearIndent {
+    padding: 0px !important;
+    border: 0px !important;
+    margin: 0px !important;
+}
+
+#content {
+    width: 65vw;
+    height: auto;
+    background-color: #fefefe;
+    border: 1px solid #999999;
+    text-align: center;
+    margin: 0px auto;
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#content > div {
+    height: 100%;
+}
+
+#content > div:first-child {
+    background: transparent url("app/assets/images/login-background.jpg") 0px 0px repeat;
+    opacity: 0.9;
+}
+
+#content > div:last-child div.header {
+    height: 20vh;
+}
+
+#content > div:last-child div.header span,
+#content > div:last-child div.header span:first-child img {
+    height: 100%;
+}
+
+#content > div:last-child div.header span:last-child {
+    font-family: 'Xiomara', Fallback, sans-serif;
+    font-size: 25px;
+    position: relative;
+    top: 20px;
+}
+
+#content > div:last-child div.body {
+    height: 60vh;
+}
+
+#content > div:last-child div.body button {
+    width: 100%;
+    height: 55px;
+    background-color: #2e6da4;
+    color: #fefefe;
+}
+
+#content > div:last-child div.body button.register {
+    background-color: #ac2925;
+}
+
+#content > div:last-child div.body .split {
+    padding: 20px;
+    font-size: 18px;
+}
+
+#content > div:last-child div.body form > div {
+    margin: 0px;
+    padding-top: 15px;
+}
+
+#content > div:last-child div.body form > div:first-child + div + div span {
+    width: 100% !important;
+}
+
+#content > div:last-child div.body form > div span:first-child {
+    width: 120px;
+    height: 60px;
+    line-height: 39px;
+    float: left;
+    text-align: right;
+}
+
+#content > div:last-child div.body form > div:last-child span {
+    line-height: 20px;
+}
+
+#content > div:last-child div.body form > div:last-child span a {
+    float: right;
+}
+
+#content > div:last-child div.body form > div span:last-child {
+    width: 240px;
+    height: 60px;
+    float: left;
+}
+
+#content > div:last-child div.body form > div span:last-child input {
+    width: 100%;
+    padding-left: 20px;
+    height: 40px;
+}
+
+#content > div:last-child div.body form > div:first-child + div + div {
+    height: 60px !important;
+}
+
+#content > div:last-child div.body form > div:last-child,
+#content > div:last-child div.body form > div:last-child span {
+    height: 30px !important;
+}
+
+#content > div:last-child div.footer {
+    height: 20vh;
+}

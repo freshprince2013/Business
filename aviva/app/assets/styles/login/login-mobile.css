@@ -1,0 +1,86 @@
+/** For small screen (Mobile devices) **/
+@media screen and (min-width: 0px) and (max-width: 375px) {
+    #content {
+        width: 100vw;
+    }
+
+    #content > div {
+        width: 50vw;
+    }
+
+    #content > div:last-child div.body form > div span:first-child,
+    #content > div:last-child div.body form > div span:last-child,
+    #content > div:last-child div.header span:first-child {
+        width: 100% !important;
+    }
+
+    #content > div:last-child div.header span:last-child {
+        display: none;
+    }
+
+    #content > div:last-child div.body form > div {
+        height: 120px;
+    }
+
+    #content > div:last-child div.body form > div span:first-child {
+        text-align: left;
+    }
+}
+
+/** For medium screen (Tablet devices) **/
+@media screen and (min-width: 376px) and (max-width: 768px) {
+    #content > div:last-child div.body form > div span:first-child,
+    #content > div:last-child div.body form > div span:last-child,
+    #content > div:last-child div.header span:first-child {
+       width: 100% !important;
+    }
+
+    #content > div:last-child div.header span:last-child {
+        display: none;
+    }
+
+    #content > div:last-child div.body form > div {
+        height: 120px;
+    }
+
+    #content > div:last-child div.body form > div span:first-child {
+        text-align: left;
+    }
+}
+
+/** For large screen (Large Tablet to desktop devices) **/
+@media screen and (min-width: 769px) and (max-width: 992px) {
+    #content > div:last-child div.body form > div span:first-child,
+    #content > div:last-child div.body form > div span:last-child,
+    #content > div:last-child div.header span:first-child {
+        width: 100% !important;
+    }
+
+    #content > div:last-child div.header span:last-child {
+        display: none;
+    }
+
+    #content > div:last-child div.body form > div {
+        height: 120px;
+    }
+
+    #content > div:last-child div.body form > div span:first-child {
+        text-align: left;
+    }
+}
+
+/** For wide screen (Desktop devices) **/
+@media screen and (min-width: 993px) and (max-width: 1200px){
+    #content > div:last-child div.body form > div {
+        height: 60px;
+    }
+
+    #content > div:last-child div.body form > div span:first-child {
+        text-align: right;
+        width: 30%;
+    }
+
+    #content > div:last-child div.body form > div span:last-child {
+        width: 70%;
+    }
+}
