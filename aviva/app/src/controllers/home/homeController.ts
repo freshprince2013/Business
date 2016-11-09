@@ -1,4 +1,4 @@
-import {Component, OnInit, NgZone, ViewChild, ElementRef, Input} from '@angular/core';
+import { Component, OnInit, NgZone, ViewChild, ElementRef, Input } from '@angular/core';
 import { GoogleMapService } from '../../services/googlemap.service';
 
 @Component({
@@ -13,5 +13,12 @@ export class homeController implements OnInit {
     @Input() user:any;
     @Input() isUser:boolean;
 
+    constructor(private _googleMapService: GoogleMapService) {
+    }
 
+    ngOnInit() {
+        if (this._googleMapService) {
+            if (navigator.geolocation) navigator.geolocation.getCurrentPosition(this._googleMapService.getMapResponse);
+        }
+    }
 }

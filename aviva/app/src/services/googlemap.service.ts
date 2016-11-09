@@ -1,24 +1,26 @@
 import { Injectable } from '@angular/core';
-import { Http, Response } from '@angular/http';
 import { Observable } from 'rxjs/Observable';
+import { Http, Response } from '@angular/http';
+import 'rxjs/add/operator/map';  // we need to import this now
 
 @Injectable()
 export class GoogleMapService {
-    let baseUrl:string = "https://maps.googleapis.com/maps/api/geocode/json?latlng=-34.397,150.644&sensor=true";
-    let out:any = {};
+    baseUrl:string = "https://maps.googleapis.com/maps/api/geocode/jsone";
+    out:any = {};
 
-    /** TODO: still working on it **/
-    /**
-    constructor(http:Http) {
-        console.log("Google map service has been called");
-    }
+    constructor(private _http:Http) {
+        console.log("Google Map service has been initiated!");
+    };
 
-    getMapResponse():Observable {
-        this.http.get(this.baseUrl)
-            .subscribe(result => {
-                this.out =result.json();
-                console.log(this.out);
-            });
+    getMapResponse(coordinates):Observable {
+        var lat = coordinates.coords.latitude;
+        var lng = coordinates.coords.longitude;
+        console.log(lat + "," + lng);
+        
+        this._http.get(this.baseUrl + "?latlan=" + lat + "," + lng + "&sensor=true").subscribe(response => {
+            this.out = response.json();
+            console.log(this.out);
+            return this.out;
+        });
     }
-     **/
 }

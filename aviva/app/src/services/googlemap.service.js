@@ -9,16 +9,33 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
+var http_1 = require('@angular/http');
+require('rxjs/add/operator/map'); // we need to import this now
 var GoogleMapService = (function () {
-    function GoogleMapService() {
+    function GoogleMapService(_http) {
+        this._http = _http;
+        this.baseUrl = "https://maps.googleapis.com/maps/api/geocode/jsone";
+        this.out = {};
+        console.log("Google Map service has been initiated!");
     }
+    ;
+    GoogleMapService.prototype.getMapResponse = function (coordinates) {
+        var _this = this;
+        var lat = coordinates.coords.latitude;
+        var lng = coordinates.coords.longitude;
+        console.log(lat + "," + lng);
+        this._http.get(this.baseUrl + "?latlan=" + lat + "," + lng + "&sensor=true").subscribe(function (response) {
+            _this.out = response.json();
+            console.log(_this.out);
+            return _this.out;
+        });
+    };
     GoogleMapService = __decorate([
+        // we need to import this now
         core_1.Injectable(), 
-        __metadata('design:paramtypes', [])
+        __metadata('design:paramtypes', [http_1.Http])
     ], GoogleMapService);
     return GoogleMapService;
 }());
 exports.GoogleMapService = GoogleMapService;
-var baseUrl = "https://maps.googleapis.com/maps/api/geocode/json?latlng=-34.397,150.644&sensor=true";
-var out = {};
 //# sourceMappingURL=googlemap.service.js.map

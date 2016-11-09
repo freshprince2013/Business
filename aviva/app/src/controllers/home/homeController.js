@@ -11,8 +11,15 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require('@angular/core');
 var googlemap_service_1 = require('../../services/googlemap.service');
 var homeController = (function () {
-    function homeController() {
+    function homeController(_googleMapService) {
+        this._googleMapService = _googleMapService;
     }
+    homeController.prototype.ngOnInit = function () {
+        if (this._googleMapService) {
+            if (navigator.geolocation)
+                navigator.geolocation.getCurrentPosition(this._googleMapService.getMapResponse);
+        }
+    };
     __decorate([
         core_1.Input(), 
         __metadata('design:type', Object)
@@ -29,7 +36,7 @@ var homeController = (function () {
             templateUrl: '../../views/home/home.html',
             styleUrls: ['../../../assets/styles/home/home.css', '../../../assets/styles/home/home-mobile.css']
         }), 
-        __metadata('design:paramtypes', [])
+        __metadata('design:paramtypes', [googlemap_service_1.GoogleMapService])
     ], homeController);
     return homeController;
 }());
