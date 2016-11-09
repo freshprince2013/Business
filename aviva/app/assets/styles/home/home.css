@@ -1,0 +1,76 @@
+#home {
+    background: transparent url("app/assets/images/tile1.jpg") 0px 0px repeat;
+    width: 100%;
+    height: 100%;
+}
+
+#home > section {
+    width: 85vw;
+    height: 100%;
+    background-color: #fefefe;
+    border-radius: 1px solid #cccccc;
+    margin: 0px auto;
+}
+
+#home header {
+    width: 100%;
+    height: 80px;
+    background-color: #444444;
+    color: #fefefe;
+    font-size: 12px;
+}
+#home header nav > div {
+    float: left;
+    font-size: medium;
+    font-weight: bold;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+#home header nav > div.left {
+    width: 70%;
+    position: relative;
+    top: 28px;
+    left: 20px;
+}
+#home header nav > div.right {
+    width: 30%;
+    position: relative;
+    top: 15px;
+}
+#home header nav > div.right div {
+    float:left;
+}
+#home header nav > div.right div:first-child {
+    font-size: 12px;
+    width: 50%;
+    font-weight: normal;
+}
+#home header nav > div.right div.locator {
+    position: relative;
+    top: 6px;
+}
+#home header nav > div.right div.locator::before {
+    content: "";
+    background: transparent url("app/assets/images/sprite.png") -20px 0px no-repeat;
+    display: block;
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+#home header nav > div.right div:last-child span {
+    float: left;
+}
+#home header nav > div.right div:last-child span:last-child {
+    position: relative;
+    top: 15px;
+    left:8px;
+}
+#home header nav > div.right div:last-child span:first-child {
+    background-color: transparent;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    display: block;
+}

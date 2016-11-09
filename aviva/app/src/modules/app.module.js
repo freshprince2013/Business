@@ -11,6 +11,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require('@angular/core');
 var router_1 = require('@angular/router');
 var platform_browser_1 = require('@angular/platform-browser');
+var http_1 = require('@angular/http');
 var loginController_1 = require('../controllers/login/loginController');
 var homeController_1 = require('../controllers/home/homeController');
 var errorController_1 = require('../controllers/errorController');
@@ -21,6 +22,7 @@ var AppModule = (function () {
         core_1.NgModule({
             imports: [
                 platform_browser_1.BrowserModule,
+                http_1.HttpModule,
                 router_1.RouterModule.forRoot([
                     { path: "", redirectTo: "", pathMatch: "full" },
                     { path: "login", component: loginController_1.loginController },

@@ -1,1 +1,45 @@
-<div *ngIf="isUser">Welcome {{user.name}}!</div>
+<article *ngIf="isUser" id="home">
+    <section>
+        <header>
+            <nav>
+                <div class="left">
+                    <span>Welcome! You have unlocked {{user.first_name}}'s portfolio</span>
+                </div>
+
+                <div class="right">
+                    <div class="locator">Current location: [Toronto, ON]</div>
+                    <div>
+                        <span [style.background-image]="'url(' + user.picture.data.url + ')'"></span>
+                        <span>{{user.first_name}}</span>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <aside>
+            <div id="overview">
+                <div><a href="#">About me</a></div>
+                <div><a href="#">My Education</a></div>
+                <div><a href="#">My Projects</a></div>
+                <div><a href="#">Resume</a></div>
+                <div><a href="#">My Hobbies</a></div>
+            </div>
+
+            <div id="feeds">
+                Twitter feeds go here
+            </div>
+
+            <div id="subscribe">
+                Subscribe to my newsletters
+            </div>
+        </aside>
+
+        <section>
+            <div id="map" style="height: 100%;"></div>
+        </section>
+
+        <footer>
+            Copyright &copy; by {{user.first_name}} {{user.last_name}}. All rights reserved.
+        </footer>
+    </section>
+</article>

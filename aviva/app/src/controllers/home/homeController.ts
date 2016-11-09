@@ -1,10 +1,10 @@
 import {Component, OnInit, NgZone, ViewChild, ElementRef, Input} from '@angular/core';
-import { FacebookService } from '../../services/facebook.service';
+import { GoogleMapService } from '../../services/googlemap.service';
 
 @Component({
     selector: 'home',
     moduleId: module.id,
-    providers: [FacebookService],
+    providers: [GoogleMapService],
     templateUrl: '../../views/home/home.html',
     styleUrls: ['../../../assets/styles/home/home.css', '../../../assets/styles/home/home-mobile.css']
 })
@@ -12,4 +12,6 @@ import { FacebookService } from '../../services/facebook.service';
 export class homeController implements OnInit {
     @Input() user:any;
     @Input() isUser:boolean;
+
+
 }

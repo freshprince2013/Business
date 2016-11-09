@@ -9,7 +9,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
-var facebook_service_1 = require('../../services/facebook.service');
+var googlemap_service_1 = require('../../services/googlemap.service');
 var homeController = (function () {
     function homeController() {
     }
@@ -25,7 +25,7 @@ var homeController = (function () {
         core_1.Component({
             selector: 'home',
             moduleId: module.id,
-            providers: [facebook_service_1.FacebookService],
+            providers: [googlemap_service_1.GoogleMapService],
             templateUrl: '../../views/home/home.html',
             styleUrls: ['../../../assets/styles/home/home.css', '../../../assets/styles/home/home-mobile.css']
         }), 
