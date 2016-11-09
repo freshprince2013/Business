@@ -35,4 +35,5 @@ export class FacebookService {
 
         ref.parentNode.insertBefore(js, ref);
     }
+
 }

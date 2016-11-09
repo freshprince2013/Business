@@ -1,4 +1,4 @@
-<div id="login" class="clearIndent">
+<div *ngIf="!isUser" id="login" class="clearIndent">
     <div id="content">
         <div class="col-xs-6 img-responsive"></div>
 
@@ -28,12 +28,15 @@
                     </div>
 
                     <div>
+                        <span (click)="toggleRemember()" [class.active]="rememberFlag">Remember me?</span>
                         <span><a href="#">Forgot password?</a></span>
                     </div>
                 </form>
+                <div *ngIf="!isUser" class="split"> --OR-- </div>
                 <button class="register">Register Now</button>
             </div>
             <div class="footer"></div>
         </div>
     </div>
 </div>
+<home [user]="user" [isUser]="isUser"></home>

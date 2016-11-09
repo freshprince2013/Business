@@ -19,11 +19,15 @@
     }
 
     #content > div:last-child div.body form > div {
-        height: 120px;
+        height: 80px;
     }
 
     #content > div:last-child div.body form > div span:first-child {
         text-align: left;
+    }
+
+    #content > div:last-child div.body form > div:last-child span:last-child a {
+        float: left;
     }
 }
 
@@ -40,11 +44,15 @@
     }
 
     #content > div:last-child div.body form > div {
-        height: 120px;
+        height: 80px;
     }
 
     #content > div:last-child div.body form > div span:first-child {
         text-align: left;
+    }
+
+    #content > div:last-child div.body form > div:last-child span:last-child a {
+        float: left;
     }
 }
 
@@ -67,6 +75,10 @@
     #content > div:last-child div.body form > div span:first-child {
         text-align: left;
     }
+
+    #content > div:last-child div.body form > div:last-child span:last-child a {
+        float: left;
+    }
 }
 
 /** For wide screen (Desktop devices) **/
@@ -82,5 +94,9 @@
 
     #content > div:last-child div.body form > div span:last-child {
         width: 70%;
+    }
+
+    #content > div:last-child div.body form > div:last-child span:last-child {
+        width: 60% !important;
     }
 }
