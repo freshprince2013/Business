@@ -14,17 +14,16 @@ require('rxjs/add/operator/map'); // we need to import this now
 var GoogleMapService = (function () {
     function GoogleMapService(_http) {
         this._http = _http;
-        this.baseUrl = "https://maps.googleapis.com/maps/api/geocode/jsone";
-        this.out = {};
         console.log("Google Map service has been initiated!");
     }
     ;
-    GoogleMapService.prototype.getMapResponse = function (coordinates) {
+    GoogleMapService.prototype.ngOnInit = function () {
+        this.params = { lat: null, lng: null };
+        this.out = null;
+    };
+    GoogleMapService.prototype.getMapResponse = function (position) {
         var _this = this;
-        var lat = coordinates.coords.latitude;
-        var lng = coordinates.coords.longitude;
-        console.log(lat + "," + lng);
-        this._http.get(this.baseUrl + "?latlan=" + lat + "," + lng + "&sensor=true").subscribe(function (response) {
+        this._http.get("https://maps.googleapis.com/maps/api/geocode/json?latlng=" + position.coords.latitude + "," + position.coords.longitude + "&sensor=true").subscribe(function (response) {
             _this.out = response.json();
             console.log(_this.out);
             return _this.out;

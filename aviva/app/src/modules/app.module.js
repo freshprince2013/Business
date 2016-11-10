@@ -15,6 +15,7 @@ var http_1 = require('@angular/http');
 var loginController_1 = require('../controllers/login/loginController');
 var homeController_1 = require('../controllers/home/homeController');
 var errorController_1 = require('../controllers/errorController');
+var core_2 = require('angular2-google-maps/core');
 var AppModule = (function () {
     function AppModule() {
     }
@@ -28,7 +29,10 @@ var AppModule = (function () {
                     { path: "login", component: loginController_1.loginController },
                     { path: "home", component: homeController_1.homeController },
                     { path: "**", component: errorController_1.errorController }
-                ])
+                ]),
+                core_2.AgmCoreModule.forRoot({
+                    apiKey: 'AIzaSyAYQqheDArL8eDL7vXcU-HWD7-BAsp6hYA'
+                })
             ],
             declarations: [
                 loginController_1.loginController,

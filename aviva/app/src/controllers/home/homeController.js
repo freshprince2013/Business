@@ -15,9 +15,16 @@ var homeController = (function () {
         this._googleMapService = _googleMapService;
     }
     homeController.prototype.ngOnInit = function () {
-        if (this._googleMapService) {
-            if (navigator.geolocation)
-                navigator.geolocation.getCurrentPosition(this._googleMapService.getMapResponse);
+        if (this._googleMapService && navigator.geolocation) {
+            var self_1 = this;
+            navigator.geolocation.getCurrentPosition(function (pos) {
+                self_1._googleMapService.getMapResponse(pos);
+                self_1.lat = pos.coords.latitude;
+                self_1.lng = pos.coords.longitude;
+                //self.location = self._googleMapService.out.results[2].address_components[0].short_name;
+            }, function () {
+                console.log('Cannot locate on map!');
+            }, { timeout: 1000 });
         }
     };
     __decorate([

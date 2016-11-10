@@ -6,6 +6,8 @@ import { loginController }   from '../controllers/login/loginController';
 import { homeController } from '../controllers/home/homeController';
 import { errorController } from '../controllers/errorController';
 
+import { AgmCoreModule } from 'angular2-google-maps/core';
+
 @NgModule({
   imports: [
     BrowserModule,
@@ -15,7 +17,10 @@ import { errorController } from '../controllers/errorController';
       { path: "login", component: loginController },
       { path: "home", component: homeController },
       { path: "**", component: errorController }
-    ])
+    ]),
+    AgmCoreModule.forRoot({
+      apiKey: 'AIzaSyAYQqheDArL8eDL7vXcU-HWD7-BAsp6hYA'
+    })
   ],
   declarations: [
     loginController,

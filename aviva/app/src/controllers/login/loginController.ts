@@ -7,7 +7,7 @@ import { homeController } from '../../controllers/home/homeController';
   selector: 'login',
   moduleId: module.id,
   providers: [FacebookService],
-  directives : [homeController]
+  directives : [homeController],
   templateUrl: '../../views/login/login.html',
   styleUrls: ['../../../assets/styles/login/login.css', '../../../assets/styles/login/login-mobile.css']
 })
@@ -55,7 +55,7 @@ connect() {
         }
       });
       }
-  }
+  });
 }
 
 getFacebookUserData(evt, res) {
