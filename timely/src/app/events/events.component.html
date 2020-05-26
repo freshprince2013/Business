@@ -1,0 +1,120 @@
+<div class="container">
+  <div fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+    <mat-card>
+      <mat-card-title>Event Listings per Calendar</mat-card-title>
+      <mat-card-subtitle>Here you can observe the list of events from the chosen calendar</mat-card-subtitle>
+    </mat-card>
+  </div>
+
+  <div fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+    <mat-card>
+      <mat-horizontal-stepper [linear]="isLinear" #stepper>
+        <mat-step [stepControl]="firstFormGroup" class="calendarContainer">
+          <form [formGroup]="firstFormGroup">
+            <ng-template matStepLabel>Choose your Calendar</ng-template>
+            <mat-form-field class="formGroup" appearance="fill" *ngIf="calendars.length > 0">
+              <mat-label>Select Calendar</mat-label>
+              <mat-select formControlName="calendarNameCtrl">
+                <mat-option *ngFor="let calendar of calendars" [value]="calendar.title">
+                  {{calendar.title}}
+                </mat-option>
+              </mat-select>
+              <mat-hint align="end">This is where you choose your custom calendar^</mat-hint>
+            </mat-form-field>
+            <div class="btnGroup">
+              <button mat-button matStepperNext>Next</button>
+            </div>
+          </form>
+        </mat-step>
+        <mat-step [stepControl]="secondFormGroup">
+          <form [formGroup]="secondFormGroup">
+            <ng-template matStepLabel *ngIf="!firstFormGroup.controls['calendarNameCtrl'].value || firstFormGroup.controls['calendarNameCtrl'].value == ''">No Event Listings</ng-template>
+            <ng-template matStepLabel *ngIf="firstFormGroup.controls['calendarNameCtrl'].value != ''">Event Listings for Calendar [{{firstFormGroup.controls['calendarNameCtrl'].value}}]</ng-template>
+            <div class="event-meta-section" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+              <div class="prev col-sm-1 col-md-1 col-lg-1"> <a href="javascript:void(0);" (click)="prevYear()"> << </a> </div>
+              <div class="prev col-sm-1 col-md-1 col-lg-1"> <a href="javascript:void(0);" (click)="prevMonth()"> < </a> </div>
+              <div class="label col-sm-8 col-md-8 col-lg-8">{{getMonthName(monthInFocus)}} {{yearInFocus}}</div>
+              <div class="next col-sm-1 col-md-1 col-lg-1"> <a href="javascript:void(0);" (click)="nextMonth()"> > </a> </div>
+              <div class="next col-sm-1 col-md-1 col-lg-1"> <a href="javascript:void(0);" (click)="nextYear()"> >> </a> </div>
+            </div>
+            <div class="event-alt-section" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center" *ngIf="monthInFocus != getCurrentMonth() || yearInFocus != getCurrentYear()">
+              <a href="javascript: void(0);" (click)="focusCurrentDate()">Focus on current date</a>
+            </div>
+            <div class="event-content-section" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+              <mat-grid-list class="grid" cols="4" rowHeight="2:1">
+                <mat-grid-tile class="grid-tile" *ngFor="let day of counter(totalDaysInFocusMonth); let i = index" [class.current]="isCurrentDate(i+1)">
+                  <span class="day" *ngIf="isCurrentDate(i+1)">{{i+1}} (Today)</span>
+                  <span class="day" *ngIf="!isCurrentDate(i+1)">{{i+1}}</span>
+
+                  <ng-container *ngFor="let event of events">
+                    <div class="event" *ngIf="getInFocusTimeStamp(i+1) >= getTimeStamp(getDateTimeParams('date', event.startTime)) && getInFocusTimeStamp(i+1) < getTimeStamp(getDateTimeParams('date', event.endTime))">
+                      <div>
+                        <span class="title">
+                          <a href="javascript:void(0);" (click)="setEventAndMoveStepper(stepper, event)" [class.current]="isCurrentDate(i+1)">{{event.title}}</a>
+                        </span>
+                        <span class="author">{{event.author}}</span>
+                      </div>
+                      <div>
+                        <span class="timeslot">{{getDateTimeParams('time', event.startTime)}} to {{getDateTimeParams('time', event.endTime)}}</span>
+                        <span class="timezone">{{event.timeZone}}</span>
+                        <span class="status">{{event.status}}</span>
+                      </div>
+                    </div>
+                  </ng-container>
+                </mat-grid-tile>
+              </mat-grid-list>
+            </div>
+            <div>
+              <button mat-button matStepperPrevious>Back</button>
+            </div>
+          </form>
+        </mat-step>
+        <mat-step>
+          <ng-template matStepLabel *ngIf="firstFormGroup.controls['calendarNameCtrl'].value == ''">No Event Details</ng-template>
+          <ng-template matStepLabel *ngIf="firstFormGroup.controls['calendarNameCtrl'].value != '' && !selectedEvent">Event Details</ng-template>
+          <ng-template matStepLabel *ngIf="firstFormGroup.controls['calendarNameCtrl'].value != '' && selectedEvent">Event ID [{{selectedEvent.id}}] Details</ng-template>
+            <div class="details" *ngIf="selectedEvent && firstFormGroup.controls['calendarNameCtrl'].value">
+              <div>
+                <span class="label"> Linked Calendar: </span>
+                <span class="value"> {{firstFormGroup.controls['calendarNameCtrl'].value}} </span>
+              </div>
+
+              <div>
+                <span class="label"> Event Title: </span>
+                <span class="value"> {{selectedEvent.title}} </span>
+              </div>
+
+              <div>
+                <span class="label"> Author: </span>
+                <span class="value"> {{selectedEvent.author}} </span>
+              </div>
+
+              <div>
+                <span class="label"> Event Start Time: </span>
+                <span class="value"> {{selectedEvent.startTime}} </span>
+              </div>
+
+              <div>
+                <span class="label"> Event End Time: </span>
+                <span class="value"> {{selectedEvent.endTime}} </span>
+              </div>
+
+              <div>
+                <span class="label"> Event Timezone: </span>
+                <span class="value"> {{selectedEvent.timeZone}} </span>
+              </div>
+
+              <div>
+                <span class="label"> Event Status: </span>
+                <span class="value"> {{selectedEvent.status}} </span>
+              </div>
+            </div>
+          <div>
+            <button mat-button matStepperPrevious>Back</button>
+            <button mat-button (click)="reset(stepper)">Reset</button>
+          </div>
+        </mat-step>
+      </mat-horizontal-stepper>
+    </mat-card>
+  </div>
+</div>

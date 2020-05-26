@@ -1,0 +1,23 @@
+<div class="container">
+  <div fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+    <mat-card>
+      <mat-card-title>Welcome to the Personalized calendar app</mat-card-title>
+      <mat-card-subtitle>You have reached the homepage of your personalized calendar app</mat-card-subtitle>
+    </mat-card>
+  </div>
+
+  <div class="content" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+    <ng-container>
+      <mat-card class="col col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <span class="banner"></span>
+      </mat-card>
+      <mat-card class="col col-xs-12 col-sm-12 col-md-6 col-lg-6">
+        <div>Get your very own personalized calendar app customized to your needs right here. In order to get started please follow the call-to-action button below:</div>
+        <div><button mat-button routerLink="/events" color="primary">
+          <mat-icon>open_in_new</mat-icon>
+          <span>Get Started!</span>
+        </button></div>
+      </mat-card>
+    </ng-container>
+  </div>
+</div>
