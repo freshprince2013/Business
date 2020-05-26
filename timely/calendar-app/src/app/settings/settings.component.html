@@ -1,0 +1,25 @@
+<div class="container">
+  <div fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+    <mat-card>
+      <mat-card-title>Personalized calendar settings</mat-card-title>
+      <mat-card-subtitle>Here you can configure your calendar settings</mat-card-subtitle>
+    </mat-card>
+  </div>
+
+  <div class="content" fxLayout="row" fxLayout.xs="column" fxLayoutWrap fxLayoutGap="0.5%" fxLayoutAlign="center">
+    <ng-container>
+      <div>
+        <span>Please set your calendar timeline</span>
+        <mat-form-field class="date">
+          <mat-label>Start Year</mat-label>
+          <input matInput>
+        </mat-form-field>
+
+        <mat-form-field class="date">
+          <mat-label>End Year</mat-label>
+          <input matInput>
+        </mat-form-field>
+      </div>
+    </ng-container>
+  </div>
+</div>

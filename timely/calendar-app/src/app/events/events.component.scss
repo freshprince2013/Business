@@ -1,0 +1,114 @@
+.calendarContainer {
+  .formGroup {
+    width: 100%;
+  }
+  .btnGroup {
+    text-align: center;
+    margin: 25px auto;
+    padding: 0px;
+  }
+}
+
+.event-meta-section {
+  div {
+    display: inline-block;
+    font-weight: bold;
+    font-size: large;
+    height: 60px;
+    line-height: 36px;
+    &.prev {
+      width: 5%;
+      text-align: left;
+    }
+    &.label {
+      width: 80%;
+      text-align: center;
+    }
+    &.next {
+      width: 5%;
+      text-align: right;
+    }
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.event-alt-section {
+  text-align: center;
+  margin: 0px auto;
+  position: relative;
+  top: -15px;
+}
+
+.event-content-section {
+  .grid {
+    .grid-tile {
+      border: 1px solid #cccccc;
+      text-align: left;
+
+      span {
+        &.day {
+          display: block;
+          position: absolute;
+          top: 3px;
+          left: 3px;
+          font-weight: bold;
+          font-size: large;
+          padding: 8px;
+          border: 1px solid #cccccc;
+          border-radius: 15px;
+          -moz-border-radius: 15px;
+          -webkit-border-radius: 15px;
+          -ie-border-radius: 15px;
+          -ms-border-radius: 15px;
+          -o-border-radius: 15px;
+        }
+      }
+
+      &.current {
+        background-color: #673AB7;
+        color: #fefefe;
+      }
+      .event {
+        display: inline-block;
+        margin-left: 8px;
+
+        span {
+          font-size: small;
+          display: block;
+          &.title {
+            font-weight: bold;
+            a {
+              &.current {
+                color: #fefefe !important;
+              }
+            }
+          }
+          &.author {
+            font-size: x-small;
+          }
+        }
+      }
+    }
+  }
+}
+
+.details {
+  margin: 10px 0px 0px 0px;
+  div {
+    padding: 10px;
+    span {
+      display: inline-block;
+      padding: 10px;
+      &.label {
+        font-size: large;
+        font-weight: bold;
+      }
+      &.value {
+        font-size: medium;
+        font-weight: normal;
+      }
+    }
+  }
+}
